@@ -1,0 +1,756 @@
+ranking,name,State,Wins,Losses,Draw,strength_of_schedule,Public/Private,Section/Region,City,Zip Code,longitude,latitude,Boys' Level,Boys' Season,Girls' Level,Girls' Season,Density
+1,JSerra Catholic (San Juan Capistrano),CA,29,4,0,34.2,Private,Southern,San Juan Capistrano,92675,-117.6678213,33.5209789,Varsity/JV,Fall,Varsity/JV,Winter,0.042307692
+2,Newport Harbor (Newport Beach),CA,33,1,0,49.75,Public,Southern,Newport Beach,92663,-117.910973,33.6236043,Varsity/JV,Fall,Varsity/JV,Winter,0.085897436
+3,Cathedral Catholic (San Diego),CA,23,7,0,33.4,Private,San Diego,San Diego,92130,-117.201469,32.959655,Varsity/JV,Fall,Varsity/JV,Winter,0.053846154
+4,Sacred Heart Prep (Atherton),CA,19,10,0,32.9,Private,Central Coast,Atherton,94027,-122.1943559,37.4481492,Varisty/JV,Fall,Varisty/JV,Fall,0.053846154
+5,Clear Creek (League City),TX,32,0,1,17,Public,South,Friendswood,77546,-95.1875884,29.5505749,Varsity,Spring,Varsity,Spring,0.028205128
+6,Corona del Mar (Newport Beach),CA,25,7,0,30.3,Public,Southern,Newport Beach,92660,-117.8784241,33.6343649,Varsity/JV,Fall,Varsity/JV,Winter,0.087179487
+7,Menlo School (Atherton),CA,16,8,0,25.4,Private,Central Coast,Atherton,94027,-122.1916935,37.4533323,Varisty/JV,Fall,Varisty/JV,Fall,0.053846154
+8,Marcus (Flower Mound),TX,23,1,0,19,Public,North,Flower Mound,75028,-97.0634413,33.0633739,Varsity/JV,Spring,Varsity,Spring,0.015384615
+9,Harvard-Westlake (Studio City),CA,16,10,0,34.6,Private,Southern,Studio City,91604,-118.412776,34.137933,Varsity/JV,Fall,Varsity/JV,Winter,0.065384615
+10,Mater Dei (Santa Ana),CA,19,8,0,30.7,Private,Southern,Santa Ana,92707,-117.8837551,33.7260273,Varsity/JV,Fall,Varsity/JV,Winter,0.112820513
+11,Oaks Christian (Westlake Village),CA,22,10,0,29.7,Private,Southern,Westlake Village,91362,-117.8490722,33.9100857,Varsity/JV,Fall,Varsity/JV,Winter,0.144871795
+12,Redwood (Larkspur),CA,28,4,0,20.4,Public,North Coast,Larkspur,94939,-122.5346938,37.93799565,Varsity/JV,Fall,Varsity/JV,Fall,0.024358974
+13,De La Salle (Concord),CA,22,7,0,26.6,Private,North Coast,Concord,94518,-122.0301737,37.9349049,Varsity/JV,Fall,,,0.046153846
+14,Mira Costa (Manhattan Beach),CA,22,12,0,24.2,Public,Southern,Manhattan Beach,90266,-118.3895412,33.8742887,Varsity/JV,Fall,Varsity/JV,Winter,0.065384615
+16,Campolindo (Moraga),CA,18,10,0,28.1,Public,North Coast,Moraga,94556,-122.1246641,37.86075053,Varsity,Fall,Varsity,Fall,0.044871795
+17,St. Mark's (Dallas),TX,15,2,1,22.6,Private,North,Dallas,75230,-96.80401763,32.9086515,Varsity,Spring,,,0.015384615
+18,Bishop's (La Jolla),CA,15,12,0,32.9,Private,San Diego,San Diego,92037,-117.278714,32.8405443,Varsity/JV,Fall,Varsity/JV,Winter,0.03974359
+19,Saint Francis (Mountain View),CA,22,9,0,26.3,Private,Central Coast,Mountain View,94040,-122.0871107,37.36868425,Varisty/JV,Fall,Varisty/JV,Fall,0.062820513
+20,San Clemente,CA,20,8,0,25.8,Public,Southern,San Clemente,92673,-117.6171134,33.4397722,Varsity/JV,Fall,Varsity/JV,Winter,0.023076923
+21,Westlake (Westlake Village),CA,25,7,0,21.4,Public,Southern,Thousand Oaks,91362,-118.8059772,34.18782805,Varsity/JV,Fall,Varsity/JV,Winter,0.019230769
+22,La Jolla,CA,22,8,0,24.3,Public,San Diego,La Jolla,92037,-117.273018,32.833784,Varsity/JV,Fall,Varsity/JV,Winter,0.03974359
+23,Foster (Richmond),TX,27,5,0,16.9,Public,South,Richmond,77406,-95.81171,29.62553,Varsity,Spring,Varsity,Spring,0.017948718
+24,Buena (Ventura),CA,26,5,0,20,Public,Southern,Ventura,93003,-119.2170617,34.27756083,Varsity,,,,0.015384615
+25,Santa Margarita (Rancho Santa Margarita),CA,17,9,0,27.2,Private,Southern,Rancho Santa Margarita,92688,-117.5804334,33.6435921,Varsity/JV,Fall,Varsity/JV,Winter,0.055128205
+26,Foothill (Santa Ana),CA,18,11,0,27.3,Public,Southern,Ventura,93003,-119.2257883,34.2788994,Varsity/JV,Fall,Varsity/JV,Winter,0.015384615
+27,Rio Americano (Sacramento),CA,27,5,0,16.6,Public,Sac-Joaquin,Sacramento,95864,-121.3546926,38.5785072,Varsity/JV,Fall,Varsity/JV,Fall,0.034615385
+28,Archie Williams (San Anselmo),CA,22,6,0,24.3,Public,,San Anselmo,94960,-122.5728505,37.9832521,,,,,0.021794872
+29,Loyola (Los Angeles),CA,11,15,0,35.1,Private,Southern,Los Angeles,90006,-118.2955112,34.0448448,Varsity/JV,Fall,,,0.107692308
+30,Southlake Carroll (Southlake),TX,25,7,0,18.8,Public,,Southlake,76092,-97.174899,32.9387517,,,,,0.01025641
+31,San Marcos (Santa Barbara),CA,23,10,0,23.7,Public,,Santa Barbara,93110,-119.7890516,34.4368868,,,,,0.005128205
+32,Boerne-Champion (Boerne),TX,23,5,0,16.3,Public,,Boerne,78006,-98.7044237,29.7853216,,,,,0.012820513
+33,Bellarmine College Prep (San Jose),WA,14,12,0,29.5,Public,KingCo,Bellevue,98004,-122.1976825,47.6044036,Varsity/JV,Fall,Varsity/JV,Spring,0
+34,Strake Jesuit (Houston),TX,21,7,0,17.7,Private,East,Houston,77036,-95.5404991,29.7050505,Varsity/JV,Spring,,,0.05
+35,Buchanan (Clovis),CA,20,10,0,20.3,Public,Central,Clovis,93619,-119.7080195,36.83605285,Varsity,Fall,Varsity,Fall,0.020512821
+36,College Park (Pleasant Hill),CA,20,6,0,17.6,Public,Central,Fresno,93720,-119.7648959,36.8591245,Varsity,Fall,Varsity,Fall,0.021794872
+37,El Segundo,CA,23,6,0,18.4,Public,Southern,El Segundo,90245,-118.4141526,33.9247393,Varsity/JV,Fall,Varsity/JV,Winter,0.076923077
+38,San Juan Hills (San Juan Capistrano),CA,0,14,0,20.3,Public,Southern,San Juan Capistrano,92675,-117.6237078,33.5022336,Varsity,Fall,Vasity,Winter,0.030769231
+39,Woodrow Wilson (Long Beach),CA,18,11,0,22.8,Public,,Long Beach,90804,-118.141171,33.777977,,,,,0.107692308
+40,Tamalpais (Mill Valley),CA,17,12,0,21.6,Public,North Coast,Mill Valley,94941,-122.5277308,37.89061235,Varsity/JV,Fall,Varsity/JV,Fall,0.024358974
+41,Clovis,CA,25,8,0,20,Public,Los Angeles City,Reseda,91335,-118.5490772,34.2182056,Varsity/JV,Fall,Varsity/JV,Winter,0.03974359
+42,Carlsbad,CA,24,9,0,20.9,Public,San Diego,Carlsbad,92008,-117.32732,33.16302,Varsity/JV,Fall,Varsity/JV,Winter,0.028205128
+43,Murrieta Valley (Murrieta),CA,20,10,0,18.1,Public,Southern,Murrieta,92562,-117.231976,33.564631,Fall,Bryan Lynton,Winter,Jason Shumway,0.019230769
+44,Poway,CA,19,9,0,17.3,Public,San Diego,Poway,92064,-117.024753,32.994117,Fall,John Giulianotti,Winter,Ashley Purdy,0.048717949
+45,Ripon,CA,29,6,0,8.6,Public,Sac-Joaquin,Ripon,95366,-121.1285834,37.73629834,Fall,Eric Zador,Fall,Eric Zador,0.020512821
+46,Yucaipa,CA,20,9,0,18.9,Public,Southern,Yucaipa,92399,-117.084498,34.0339769,Fall,Matt Carpenter,Winter,Ty Hudson,0.026923077
+47,Lake Oswego,OR,30,4,0,6.7,Public,6A,Lake Oswego,97034,-122.7026237,45.42751945,Fall,Justine Kilsby,Fall,Justine Kilsby,0.016666667
+48,Santana (Santee),CA,24,7,0,17.2,Public,San Diego,Santee,92071,-116.9711435,32.8575395,Fall,Rod Bowen,Winter,Will Hutchison,0.052564103
+49,Alamo Heights (San Antonio),TX,18,2,0,8.3,Public,West,San Antonio,98209,-98.46324349,29.46542255,Spring,Don Walker,Spring,Don Walker,0.024358974
+50,Dos Pueblos (Goleta),CA,16,11,0,18.6,Public,Southern,Goleta,93117,-119.8775136,34.4387449,Fall,Connor Levoff,Winter,Connor Levoff,0.003846154
+51,Clovis West (Fresno),CA,22,9,0,17.8,Public,Central,Fresno,93730,-119.73256,36.88911,Varsity,Fall,Varsity,Fall,0.020512821
+52,Hebron (Carrollton),TX,22,7,0,16.3,Public,,Carrollton,75010,-96.8582856,33.0356696,,,,,0.019230769
+53,San Ramon Valley (Danville),CA,16,11,0,20.9,Public,North Coast,Danville,94526,-122.0068216,37.8258962,Fall,Ryan Cunnane,Fall,Heather Johnston,0.053846154
+54,Huntington Beach,CA,15,15,0,24.3,Public,Southern,Huntington Beach,92648,-118.003886,33.67639215,Fall,Sas Branisavljevic,Winter,Mark Canner,0.102564103
+55,Laguna Beach,CA,17,15,0,22.2,Public,Southern,Laguna Beach,92651,-117.7760688,33.5403719,Fall,Robert Grayeli,Winter,Ethan Damato,0.056410256
+56,Los Alamitos,CA,17,10,0,21,Public,Southern,Los Alamitos,90720,-118.0733239,33.81038883,Fall,Brent Danna,Winter,Dave Carlson,0.130769231
+57,Damien (La Verne),CA,21,11,0,16.8,Private,Southern,La Verne,91750,-117.7883813,34.1036814,Fall,Josh Thomasson,,,0.085897436
+58,Santiago (Corona),CA,23,6,0,10.4,Public,Southern,Corona,92881,-117.5461248,33.834048,Fall,Kyle Gorham,Winter,Kyle Gorham,0.066666667
+59,Brazoswood (Clute),TX,21,6,0,12.9,Public,South,Clute,77531,-95.4150611,29.0268086,Spring,Robert Brown,Spring,Robert Brown,0.001282051
+60,Rocklin,CA,22,12,0,15.3,Public,Sac-Joaquin,Rocklin,95765,-121.2535929,38.81493064,Fall,Scott Bergemann,Fall,April Kenitzer,0.025641026
+61,Arcadia,CA,25,2,0,10.7,Public,Southern,Arcadia,91007,-118.0371449,34.13067724,Fall,Janice Clark,Winter,Janice Clark,0.097435897
+62,Archbishop Mitty (San Jose),CA,16,7,0,17.3,Private,Central Coast,San Jose,95129,-121.9938086,37.3145467,Fall,Ben Vierra,Fall,Brendan Lavelle,0.056410256
+63,Crean Lutheran (Irvine),CA,14,12,0,23.5,Private,Southern,Irvine,92618,-117.7312815,33.703017,Fall,Franchesca Black,,,0.091025641
+64,Cypress Ranch (Houston),TX,29,4,0,8.2,Public,,Cypress,77433,-95.71399056,29.94381178,,,,,0.030769231
+65,Westside (Houston),TX,22,7,0,12.6,Public,East,Houston,77077,-95.63720414,29.75447095,Spring,Craig Sikkema,Spring,Craig Sikkema,0.044871795
+66,College Park (The Woodlands),CA,19,3,0,8,Public,North Coast,Pleasant Hill,94523,-122.0712901,37.9644531,Fall,John Deluca,Fall,Lauren Seidemann,0.043589744
+67,Irvine,CA,18,13,0,18,Public,Southern,Irvine,92604,-117.7807333,33.703562,Fall,Ray Wong,Winter,Crystal Hinman,0.094871795
+68,Cypress Creek (Houston),TX,19,8,0,14.3,Public,East,Houston,77070,-95.5661039,29.9647175,Spring,Jeff Chandler,Spring,Jeff Chandler,0.037179487
+69,Canyon Crest Academy (San Diego),CA,20,6,0,13.5,Public,San Diego,San Diego,92130,-117.1892901,32.9571545,Fall,Nicholas Ratekin,Winter,Nicholas Ratekin,0.056410256
+70,La Habra,CA,23,4,0,10.9,Public,Southern,La Habra,90631,-117.9570403,33.9372651,Fall,Mark Cholette,Winter,Courtney Robertson,0.147435897
+71,Redondo Union (Redondo Beach),CA,20,10,0,16.5,Public,Southern,Redondo Beach,90277,-118.383232,33.846801,Fall,Chris Murin,Winter,Shelby Haroldson,0.062820513
+72,Righetti (Santa Maria),CA,21,9,0,16.2,Public,Southern,Santa Maria,93455,-120.4421597,34.88359435,Fall,Kyle Shaffer,Winter,Roxanne Eastwood,0.006410256
+73,Santa Cruz,CA,19,6,0,13.6,Public,Central Coast,Santa Cruz,95060,-122.032933,36.97174468,Fall,Caleb Conroy,Fall,Eric Byrd,0.008974359
+74,Los Altos,CA,24,9,0,12.4,Public,Central Coast,Los Altos,94022,-122.109264,37.385071,Fall,Seth Tasman,Fall,Katie Tasman,0.065384615
+75,Downey,CA,16,5,0,14.3,Public,,Downey,90241,-118.1262115,33.9404936,,,,,0.142307692
+76,Servite (Anaheim),CA,13,14,0,22.9,Private,Southern,Anaheim,92801,-117.9511387,33.8469316,Fall,Andy Coffman,,,0.130769231
+77,Terra Linda (San Rafael),CA,15,12,0,19.4,Public,North Coast,San Rafael,94903,-122.55196,37.999505,Fall,Geoff Peters,Fall,Geoff Peters,0.021794872
+78,Clovis East (Clovis),CA,18,11,0,18.2,Public,Central,Clovis,93611,-119.6820585,36.81720479,Fall,Evan Baird,Fall,Noah Minton,0.021794872
+79,Junipero Serra (San Mateo),CA,18,12,0,16.9,Private,,San Mateo,94403,-122.3185672,37.54606994,,,,,0.03974359
+80,Liberty (Brentwood),CA,23,5,0,10.5,Public,North Coast,Brentwood,94513,-121.699685,37.93861742,Fall,Ben Keisic,Fall,Jack Doria,0.025641026
+81,Merced,CA,26,7,0,9.3,Public,Sac-Joaquin,Merced,95244,-120.4730019,37.31898432,Fall,Kit Grattan,Fall,Seth Gentry,0.007692308
+82,Clovis North (Fresno),CA,18,11,0,17.7,Public,Central,Clovis,93611,-119.636941,36.814898,Fall,Colin Gasper,Fall,Lee Strosnider,0.021794872
+83,Notre Dame (SO) (Sherman Oaks),CA,14,7,0,15.9,Private,Southern,Sherman Oaks,91423,-118.4290356,34.15828335,Fall,John Hirn,Winter,John Hirn,0.06025641
+84,Los Gatos,CA,18,8,0,15,Public,Central Coast,Los Gatos,95030,-121.9766411,37.2233806,Fall,Davor Koret,Fall,Don Appleton,0.052564103
+85,Brunswick School (Greenwich),CT,14,0,0,3.4,Private,,Greenwich,6830,-73.6271634,41.0374101,,,,,0.001282051
+86,Point Loma (San Diego),CA,22,10,0,12.4,Public,San Diego,San Diego,92106,-117.226153,32.73965,Fall,Ken Toma,Winter,Ken Toma,0.05
+87,Long Beach Poly (Long Beach),CA,15,9,0,16.4,Public,Southern,Long Beach,90813,-118.184923,33.788167,Fall,Ishmael Pluton,Winter,Bill Brightenburg,0.102564103
+88,Brea Olinda (Brea),CA,17,8,0,14.3,Public,Southern,Brea,92821,-117.875972,33.9319621,Fall,Stan Sprague,Winter,Stan Sprague,0.144871795
+89,Dallas Jesuit (Dallas),TX,17,13,0,18.7,Private,,Dallas,75244,-96.8197269,32.9162445,,,,,0.012820513
+90,Alvin,TX,18,2,0,5.1,Public,South,Alvin,77511,-95.25071281,29.41747462,Spring,John Yokum,Spring,John Yokum,0.021794872
+91,Round Rock,CA,20,5,0,7.7,Public,Sac-Joaquin,Roseville,95678,-121.2755849,38.758748,Fall,Brad Molina,Fall,Paul Stewart,0.028205128
+92,Torrey Pines (San Diego),CA,19,10,0,18.8,Public,San Diego,San Diego,92130,-117.224907,32.95844,Fall,Alex Williams,Winter,Alex Williams,0.05
+93,Harker (San Jose),CA,18,10,0,16.6,Private,Central Coast,San Jose,95129,-121.9718667,37.3176267,Fall,Ted Ujifusa,Fall,Allie Lamb,0.057692308
+94,Punahou (Honolulu),HI,4,5,0,27.3,Private,ILH,Honolulu,96822,-157.8324786,21.3029774,,,Spring,Ken Smith,0.001282051
+95,Flower Mound,TX,13,11,0,17.9,Public,North,Flower Mound,75022,-97.0821783,33.0322466,Spring,Dan Snow,Spring,Dan Snow,0.014102564
+96,Turlock,CA,25,6,0,8,Public,Sac-Joaquin,Turlock,95380,-120.8308552,37.4982263,Fall,Anne Cornell,Fall,Sonja Raynes,0.017948718
+97,Portola (Irvine),CA,13,13,0,20.5,Public,,Irvine,92618,-117.7128803,33.67293535,,,,,0.083333333
+98,Camarillo,CA,18,7,0,14.2,Public,Southern,Camarillo,93021,-118.9851094,34.2442688,Fall,Dennis Reidmiller,Winter,Scarlett Lund-Sidi,0.016666667
+99,Westlake (Austin),TX,15,5,1,8.2,Public,,Austin,78746,-97.8140618,30.2760098,,,,,0.014102564
+100,Greenwich,CT,11,5,0,13.1,Public,,Greenwich,6830,-73.61344043,41.040361,,,,,0.001282051
+101,Jesuit (Carmichael),CA,17,12,0,15.4,Private,Sac-Joaquin,Carmichael,95608,-121.35029,38.58677,Fall,Zac Koerner,,,0.034615385
+102,Clear Springs (League City),TX,21,5,0,6.2,Public,South,Houston,77058,-95.1044629,29.5820942,Spring,TJ Markiewicz,Spring,TJ Markiewicz,0.020512821
+103,Davis Sr. (Davis),CA,18,15,0,17.2,Public,,David,95616,-121.75145,38.55586,,,,,0.014102564
+104,Valhalla (El Cajon),CA,12,9,0,18.5,Public,San Diego,El Cajon,92019,-116.9335859,32.7736844,Fall,Kent Houston,Winter,Breezy Gatavasky,0.047435897
+105,Aliso Niguel (Aliso Viejo),CA,17,10,0,15.2,Public,Southern,Aliso Viejo,92656,-117.7196411,33.5632975,Fall,Jon Puffer,Winter,Erick Lynch,0.053846154
+106,Barlow (Gresham),OR,24,7,0,5.7,Public,,gresham,97080,-122.3548801,45.4838101,,,,,0.007692308
+107,Liberal Arts & Science Academy - Austin (Austin),TX,17,1,1,2.5,Public,,Austin,78721,-97.6810751,30.258765,,,,,0.012820513
+108,Orange Lutheran (Orange),CA,9,17,0,23.8,Public,Southern,Orange,92867,-117.8467881,33.7974982,Fall,Kami Kenyon,Winter,Kami Kenyon,0.129487179
+109,Rancho Cucamonga,CA,22,6,0,10.4,Public,Southern,Rancho Cucamonga,91701,-117.547609,34.131409,Fall,Aaron Avalos,Winter,Aaron Avalos,0.056410256
+110,Sage Hill (Newport Beach),CA,20,8,0,11.7,Private,Southern,Newport Coast,92657,-117.8260176,33.6188715,Fall,Pavle Filipovic,,,0.080769231
+111,Leland (San Jose),CA,17,10,0,11.7,Public,Central Coast,San Jose,95120,-121.8441458,37.2166679,Fall,Cyrus Kahangi,Fall,Eric Rise,0.047435897
+112,Valley Christian (San Jose),CA,12,17,0,20.5,Private,Central Coast,San Jose,95111,-121.8243462,37.2754912,Fall,Caleb Carlson,Fall,Ross Morrill,0.043589744
+113,Ventura,CA,16,16,0,20,Public,Southern,Ventura,93001,-119.229034,34.274647,Fall,Mark Schmidt,Winter,Mark Schmidt,0.015384615
+114,Prosper,TX,11,11,0,16.8,Public,,Prosper,75078,-96.800941,33.256742,,,,,0.008974359
+115,South Pasadena,CA,21,11,0,4.2,Public,Southern,South Pasadena,91030,-118.14882,34.10382,Fall,Michael Gonzales,Winter,Michael Gonzales,0.101282051
+116,Redwood (Visalia),CA,24,8,0,7.5,Public,Central,Visalia,93291,-119.3032689,36.32827325,Fall,Major Rogers,Fall,Darron Serna,0.015384615
+117,Eastlake (Chula Vista),CA,23,6,0,7.8,Public,San Diego,Chula Vista,91915,-116.9648519,32.62942181,Fall,Stuart Sokil,Winter,Stuart Sokil,0.033333333
+118,Soquel,CA,19,8,0,10.4,Public,Central Coast,Soquel,95073,-121.9569678,36.9938496,Fall,Trevor Weins,Fall,Ryan Chappatte,0.019230769
+119,Northgate (Walnut Creek),CA,16,9,0,14.1,Public,North Coast,Walnut Creek,94598,-122.0068576,37.9088436,Fall,Taylor Herman,Fall,Jim McClelland,0.047435897
+120,St. Ignatius College Preparatory (San Francisco),CA,8,14,0,23.4,Private,,San Francisco,94116,-122.4959686,37.7480821,,,,,0.028205128
+121,Capistrano Valley (Mission Viejo),CA,16,13,0,16.1,Public,Southern,Mission Viejo,92692,-117.669965,33.5418376,Fall,Steve Yancey,Winter,Pat Higginson,0.044871795
+122,Burroughs (Burbank),CA,19,8,0,12.5,Public,Southern,Burbank,91506,-118.3276159,34.1693445,Fall,Jacob Cook,Winter,Jacob Cook,0.070512821
+123,Woodbridge (Irvine),CA,21,11,0,14,Public,Southern,Irvine,92604,-117.8069086,33.678982,Fall,Matt Campbell,Winter,Jared Gray,0.093589744
+124,Berkeley,CA,22,6,0,7.7,Public,North Coast,Berkeley,94704,-122.271379,37.8670513,Fall,Bill Gaebler,Fall,Bill Gaebler,0.048717949
+125,San Dieguito Academy (Encinitas),CA,15,8,0,12.2,Public,San Diego,Encinitas,92024,-117.2750188,33.03635245,Fall,Scott Kling,Winter,Scott Kling,0.03974359
+126,Las Lomas (Walnut Creek),TX,11,15,0,19.7,Public,East,Houston,77469,-95.57356077,29.88024942,Spring,Kyle McDaniel,Spring,Kyle McDaniel,0.042307692
+127,Royal (Simi Valley),CA,20,8,0,10.3,Public,Southern,Rowland Heights,91748,-117.885183,33.981869,Fall,Justin Anhuiano,Winter,Mike Cody,0.138461538
+128,Temecula Valley (Temecula),CA,15,7,0,10.3,Public,Southern,Temecula,92592,-117.110204,33.5049916,Fall,Dawn Rodriguez,Winter,Dawn Rodriguez,0.020512821
+129,Sanger,CA,19,10,0,10.9,Public,Central,Sanger,93657,-119.5777788,36.7012533,Fall,Andy Seto,Fall,Hillary Boos,0.023076923
+130,Amador Valley (Pleasanton),CA,17,8,0,10.8,Public,North Coast,Pleasanton,94566,-121.8740512,37.6682065,Fall,Kyle Surber,Fall,Jayme Perkarske,0.034615385
+131,Los Osos (Rancho Cucamonga),CA,20,11,0,9.6,Public,Southern,Rancho Cucamonga,91737,-117.5576225,34.14494385,Fall,Chris Boyer,Winter,David Merryman,0.056410256
+132,Atascadero,CA,21,9,0,10.6,Public,Southern,Altascadero,93422,-120.6701574,35.4856022,Fall,Jon Conrad,Winter,Jon Conrad,0.002564103
+133,Newberg,OR,28,5,0,6.3,Public,6A,Newberg,97132,-122.9555506,45.3113369,Fall,Jim McMaster,Fall,Cari Blanchard,0.014102564
+134,Pioneer (San Jose),CA,21,7,0,7.5,Public,Central Coast,San Jose,95118,-121.8802182,37.245991,Fall,Jon Foote,Fall,Jessica Bartlett,0.046153846
+135,Burbank,CA,18,13,0,13.5,Public,Southern,Burbank,91502,-118.314889,34.1875712,Fall,Allison Young,Winter,Allison Young,0.067948718
+136,Keller,TX,10,10,0,15.8,Public,North,Keller,76248,-97.232949,32.9397663,Spring,Linda Shults,Spring,Linda Shults,0.006410256
+137,Edison (Huntington Beach),CA,12,19,0,20,Public,,Huntington Beach,92646,-117.9700524,33.6520959,,,,,0.1
+138,Monte Vista (Danville),CA,12,14,0,17.2,Public,North Coast,Danville,94526,-121.9822986,37.8427252,Fall,Brook Rogers,Fall,Jessica Laurence,0.052564103
+139,Trabuco Hills (Mission Viejo),CA,17,7,0,9.1,Public,Southern,Mission Viejo,92691,-117.6500876,33.6536138,Fall,Ryan Mock,Winter,Ryan Mock,0.067948718
+140,Arroyo Grande,CA,14,15,0,17.3,Public,Southern,Arroyo Grande,93420,-120.582413,35.116292,Fall,Russell Peterson,Winter,Steve Allen,0.006410256
+141,Clark (San Antonio),TX,14,6,0,10,Public,,San Antonio,78249,-98.579764,29.5655833,,,,,0.026923077
+142,Jersey Village (Houston),TX,12,6,0,9.1,Public,East,Houston,77040,-95.55567136,29.88225955,Spring,Stuart Webb,Spring,Stuart Webb,0.042307692
+143,Chino Hills,CA,14,13,0,15.9,Public,Southern,Chino Hills,91709,-117.6842561,33.9590694,Fall,Bryce Winton,Winter,Bryce Winton,0.1
+144,Crescenta Valley (La Crescenta),CA,14,11,0,14.2,Public,Southern,La Crescenta,91214,-118.2339258,34.21858613,Fall,Jan Sakonju,Winter,Ricky Mulcahey,0.066666667
+145,Helix (La Mesa),CA,14,13,0,13.5,Public,San Diego,La Mesa,91941,-117.0397568,32.75595175,Fall,Joel Hull,Winter,Lenelle Wylie,0.051282051
+146,Santa Barbara,CA,15,11,0,12.7,Public,Southern,Santa Barbara,93103,-119.6946936,34.4287724,Fall,Mark Walsh,Winter,Mark Walsh,0.005128205
+147,Marin Academy (San Rafael),CA,17,10,0,9,Private,North Coast,San Rafael,94901,-122.5344011,37.9755227,Fall,Zvi Gvishi,Fall,Jamie Collie,0.025641026
+148,Stratford (Houston),TX,15,18,0,15.2,Public,East,Houston,77079,-95.604258,29.7730985,Spring,Mike Hoskovec,Spring,Mike Hoskovec,0.044871795
+149,Beckman (Irvine),CA,8,21,0,24,Public,Southern,Irvine,92602,-117.7815964,33.717329,Fall,Duje Grubisic,Winter,Matt Calhoun,0.1
+150,El Dorado (Placentia),CA,14,15,0,15.7,Public,,Placentia,92870,-117.8561754,33.8926575,,,,,0.146153846
+151,Canyon (Anaheim),CA,17,10,0,11.3,Public,Southern,Anaheim,92807,-117.7904611,33.8504881,Fall,Celena Photpulos,Winter,Steve Anderson,0.138461538
+152,St. John Bosco (Bellflower),CA,16,10,0,10.4,Private,Southern,Bellflower,90706,-118.1254327,33.9074185,Fall,Jeff Powers,,,0.146153846
+153,King (Riverside),CA,15,10,0,9.3,Public,Southern,Riverside,92508,-117.3334768,33.8833999,Fall,Chad Rahn,Winter,Alvaro Moreno,0.048717949
+154,Taft (San Antonio),TX,16,5,1,5.7,Public,,San Antonio,78253,-98.494614,29.425171,,,,,0.023076923
+155,Muir (Pasadena),CA,21,9,0,4,Public,,Pasadena,91103,-118.1630313,34.1794687,,,,,0.078205128
+156,Granite Bay,CA,13,16,0,15.9,Public,Sac-Joaquin,Granite Bay,95746,-121.2118809,38.7315405,Fall,John MaCleane,Fall,Tyson Frenn,0.028205128
+157,Garces Memorial (Bakersfield),CA,17,13,0,8.7,Public,Central,Bakersfield,93305,-118.999363,35.400528,Fall,Jason Gall,Fall,Jason Gall,0.011538462
+158,Mission Viejo,CA,17,9,0,7.6,Public,Southern,Mission Viejo,92691,-117.6704256,33.5967916,Fall,Kevin Mitchell,Winter,TBD,0.057692308
+159,Patrick Henry (San Diego),CA,13,10,0,11.7,Public,San Diego,San Diego,92120,-117.05185,32.798811,Fall,Charlie Equels,Winter,Charlie Equels,0.055128205
+160,Mt. Carmel (San Diego),CA,11,12,0,15,Public,San Diego,San Diego,92129,-117.1200029,32.9684407,Fall,Anjuli Crawford,Winter,Anjuli Crawford,0.055128205
+161,Vista,CA,11,19,0,19.2,Public,San Diego,Vista,92084,-117.241558,33.22182377,Fall,Dave Spence,,,0.029487179
+162,Francis Parker (San Diego),CA,16,13,0,9.1,Private,,San Diego,92111,-117.179103,32.771373,,,,,0.053846154
+163,Santa Monica,CA,19,16,0,12.4,Public,Southern,Santa Monica,90405,-118.484964,34.011266,Fall,Matthew Flanders,Winter,Matthew Flanders,0.057692308
+164,San Luis Obispo,CA,16,15,0,12.6,Public,Southern,San Luis Obispo,93401,-120.6507649,35.2835065,Fall,Brayan Traverso,Fall,Nicole Devecchio,0.003846154
+165,Dana Hills (Dana Point),CA,13,8,0,10,Public,Southern,Dana Point,92629,-117.7003908,33.4778002,Fall,Matt Rosa,Winter,Carrie Pierce,0.037179487
+166,Rio Mesa (Oxnard),CA,15,13,0,12.5,Public,Southern,Oxnard,93936,-119.1573842,34.25961085,Fall,Cody Pletcher,Winter,Linda Wright,0.014102564
+167,San Marino,CA,18,9,0,7.4,Public,Southern,San Marino,91108,-118.0989214,34.1271743,Fall,Robert Zirovich,Winter,Mark Barr,0.094871795
+168,Etiwanda,CA,16,10,0,9.9,Public,Southern,Etiwanda,91739,-117.523514,34.128324,Fall,Kyle Smolinski,Winter,Kyle Smolinski,0.056410256
+169,Memorial (Houston),TX,14,11,0,10.2,Public,,Houston,77024,-95.523214,29.283893,,,,,0.011538462
+170,Cypress Woods (Cypress),TX,16,9,0,8.3,Public,,Cypress,77429,-95.6812023,29.9706251,,,,,0.032051282
+171,Northwood (Irvine),CA,14,16,0,13.8,Public,Southern,Irvine,92620,-117.751082,33.7324394,Fall,Kyle Kim-E,Winter,Kyle Kim-E,0.101282051
+172,Ponderosa (Shingle Springs),CA,16,16,0,12.1,Public,Sac-Joaquin,Shingle Springs,95682,-120.94089,38.673083,Fall,Adam Donovan,Fall,Adam Donovan,0.015384615
+173,Alta Loma,CA,10,14,0,15.9,Public,Southern,Alta Loma,91701,-117.6118526,34.1240445,Fall,Kevin Nesbit,Winter,Kevin Nesbit,0.061538462
+174,Carmel,CA,19,7,0,3.2,Public,Central Coast,Carmel,93922,-121.9286623,36.55500964,Fall,Graham Evans,Fall,Maggie Albers,0.007692308
+175,Temple City,CA,18,10,0,7.7,Public,Southern,Temple City,91780,-118.0576516,34.11817477,Fall,Davo Gharagyozyan,Winter,Oscar Dorado,0.1
+176,Grand Oaks (Spring),TX,15,8,0,5.4,Public,,Spring ,77386,-95.4057018,30.0919108,,,,,0.024358974
+177,Buhach Colony (Atwater),CA,18,15,10,5.5,Public,Sac-Joaquin,Atwater,95301,-120.5734843,37.3482238,Fall,Daniel McIlhatton,Fall,AJ Abril,0.007692308
+178,La Costa Canyon (Carlsbad),CA,17,10,0,9.1,Public,San Diego,Carlsbad,92009,-117.350594,33.158092,Fall,Grant Harrington,Winter,Rebecca Andelin,0.025641026
+179,Cardinal Newman (Santa Rosa),CA,22,8,0,1.7,Private,North Coast,Santa Rosa,95403,-122.7406051,38.49199985,Fall,,Fall,,0.001282051
+180,Austin,TX,13,6,0,4.1,Public,West,Austin,78703,-97.7669279,30.2729495,Spring,Drew Calver,,,0.014102564
+181,Clear Falls (League City),TX,11,11,0,10.5,Public,South,League City,77573,-95.07698451,29.52206135,Spring,Anne Woolweaver,Spring,Anne Woolweaver,0.017948718
+182,Oak Ridge (Conroe),TX,14,8,0,4.4,Public,East,Conroe,77385,-95.44492,30.17053,Spring,Jeff Spoon,Spring,Jeff Spoon,0.016666667
+183,Westview (San Diego),CA,9,12,0,15.2,Public,San Diego,San Diego,92129,-117.1500689,32.9660984,Fall,Garrett Rutz,Winter,Emma Sasson,0.053846154
+184,Flintridge Prep (La Canada),CA,16,10,0,8,Private,Southern,La Canada,91011,-118.1846752,34.1983492,Fall,Dan Hare,Winter,,0.076923077
+185,Poly (Riverside),CA,16,11,0,8.9,Public,Southern,Riverside,92506,-117.3681103,33.9518637,Fall,Mike Cardey,Winter,Mike Cardey,0.057692308
+186,California (San Ramon),CA,12,13,0,13.5,Public,North Coast,San Ramon,94583,-121.9473521,37.7461279,Fall,Matt Head,Fall,TBA,0.048717949
+187,Princeton (Cincinnati),OH,8,2,0,-1.9,Public,,Cincinnati,45246,-84.482048,39.279652,Fall,Gary Tameris,Fall,Jaclyn Jones,0
+188,Castro Valley,CA,19,9,0,6.3,Public,North Coast,Castro Valley,94546,-122.0763004,37.7050898,Fall,Ben Brookens,Fall,Patrick Ryken,0.06025641
+189,Churchill (San Antonio),CA,14,7,0,4.4,Public,San Diego,Chula Vista,91911,-117.08274,32.6404,Fall,Amr Soliman,Winter,Amr Soliman,0.041025641
+190,Agoura,CA,13,14,0,11.8,Public,Southern,Agoura Hills,91301,-118.7509665,34.1500031,Fall,David Sparks,Winter,Jason Rosenthal,0.030769231
+191,Strathmore,CA,24,7,0,2.6,Public,Central,Strathmore,93267,-119.0650265,36.1445828,Fall,Tim Stadtherr,Fall,Tom Harrison,0.014102564
+192,Reedley,CA,23,8,0,3.3,Public,Central,Reedley,93654,-119.4557815,36.60051271,Fall,Darrin Hammond,Fall,Kara Pavlovic,0.011538462
+193,Nevada Union (Grass Valley),CA,27,5,0,-3.1,Public,Sac-Joaquin,Grass Valley,95945,-121.058367,39.23891401,Fall,Lotty Hellested ,Fall,Laura Sloan,0.001282051
+194,Carpinteria,CA,19,11,0,6.3,Public,Southern,Carpinteria,93013,-119.516852,34.411245,Fall,Matt Organista,Winter,Lance Hoffman,0.01025641
+195,South Eugene (Eugene),OR,23,9,0,3.5,Public,6A,Eugene,97401,-123.086305,44.0379848,Fall,Hayes Vertulfo,Cray Rodgers,,0.005128205
+196,Cate (Carpinteria),CA,11,6,0,3.1,Private,Southern,Carpinteria,93013,-119.47834,34.40432,Fall,Max Bergeson,Winter,Max Bergeson,0.011538462
+197,Walnut Grove (Prosper),TX,9,10,0,13.1,Public,,Prosper,75078,-96.7463015,33.2341479,,,,,0.006410256
+198,James Logan (Union City),CA,18,7,0,4.1,Public,North Coast,Union City,94588,-122.0246953,37.59117425,Fall,Luke Green,Fall,Lance Green,0.065384615
+199,Shadow Creek (Pearland),TX,19,7,0,3,Public,South,Pearland,77584,-95.40548586,29.55532649,Spring,Katie Mitchell,Spring,Katie Mitchell,0.041025641
+200,Foothill (Pleasanton),CA,14,12,0,9,Public,North Coast,Pleasanton,94588,-121.9190466,37.6731151,Fall,Randy Usedom,Fall,Fran Usedom,0.038461538
+201,Palos Verdes (Palos Verdes Estates),CA,6,22,0,21.9,Public,Southern,Palos Verdes Estates,90274,-118.4195908,33.7795033,Fall,Patrick O'Brien,Winter,Andras Gyongyosi,0.046153846
+202,Coronado,CA,8,20,0,18.3,Public,San Diego,Corona,92118,-117.7061732,33.47437565,Fall,Sean Castillo,Winter,Alicia Began,0.037179487
+203,La Serna (Whittier),CA,10,14,0,13.8,Public,Southern,Whittier,90605,-117.999174,33.954667,Fall,John Pringle,Winter,Erin Verstegen,0.144871795
+204,Round Rock Westwood (Austin),TX,15,8,1,6.3,Public,West,Round Rock,78681,-97.7003524,30.5083383,Spring,James Smith,Spring,James Smith,0.008974359
+205,Lakeridge (Lake Oswego),OR,22,12,0,7.4,Public,6A,Lake Oswego,97034,-122.6927989,45.39735,Fall,Morgan Jones,Fall,Morgan Jones,0.016666667
+206,Santa Ana,CA,27,4,0,-3.7,Public,Southern,Santa Ana,92701,-117.8741983,33.7437365,Fall,Maer Cruz,Winter,Danielle Heiland,0.119230769
+207,Millikan (Long Beach),CA,13,11,0,9.3,Public,Southern,Long Beach,90815,-118.1116744,33.80665822,Fall,Danely Smith,Winter,Roy Contreras,0.129487179
+208,Pitman (Turlock),CA,17,9,0,5.5,Public,Sac-Joaquin,Turlock,95382,-120.8667387,37.5291762,Fall,Colin Wenstrand,Fall,Erica Crain,0.016666667
+209,Pacific Grove,CA,18,6,0,2.8,Public,,Pacific Grove,93950,-121.9249294,36.61220043,,,,,0.008974359
+210,Woodside,CA,17,7,0,3.5,Public,Southern,Long Beach,90804,-118.140702,33.778884,Fall,Jeff Nesmith,Winter,Barry O'Dea,0.107692308
+211,Classical Academy (Escondido),CA,9,10,0,13.2,Public,San Diego,Escondido,92025,-117.0809507,33.1242454,Fall,John William Bryant,Winter,Carley Woods,0.038461538
+212,Lodi,CA,21,8,0,2.3,Public,Sac-Joaquin,Lodi,95242,-121.2920123,38.1330571,Fall,Trevor Taylor,Fall,Rod Elrod,0.008974359
+213,Polytechnic (Pasadena),CA,10,11,0,11.3,Private,Southern,Pasadena,91106,-118.12918,34.135827,Fall,Ryan Katsuyama,Winter,Ryan Katsuyama,0.091025641
+214,Brandeis (San Antonio),TX,13,14,0,10.08,Public,,San Antonio,78249,-98.6443046,29.5609922,,,,,0.025641026
+215,The Woodlands,TX,9,8,0,8.3,Public,,The Woodlands,77381,-95.50452,30.19443,,,,,0.016666667
+216,Culver City,CA,25,6,0,-0.4,Public,Southern,Culver City,90230,-118.4026997,34.0080041,Fall,Nestor Dordoni Jr,Winter,Nestor Dordoni Jr,0.091025641
+217,Granite Hills (El Cajon),CA,13,11,0,9,Public,,El Cajon,92019,-116.916926,32.800127,,,,,0.048717949
+218,Redlands,CA,16,13,0,7.7,Public,Southern,Redlands,92373,-117.1714329,34.0547584,Fall,James Davis,Winter,James Davis,0.030769231
+219,Johnson (San Antonio),TX,12,10,0,8.3,Public,,San Antonio,78259,-98.435742,29.6568893,,,,,0.021794872
+220,Tualatin,OR,21,13,0,5,Public,6A,Tualatin,97062,-122.771023,45.3585242,Fall,Nick Meyer,Fall,Nick Meyer,0.015384615
+221,Anderson (Austin),TX,17,11,0,6.5,Public,West,Austin,78759,-97.7523647,30.3750415,Spring,Sarah Condon,Spring,Sarah Condon,0.01025641
+222,McClatchy (Sacramento),CA,19,11,0,5.3,Public,Sac-Joaquin,Sacramento,95818,-121.4914911,38.5487283,Fall,Brian King,Fall,Steve Plecia,0.034615385
+223,Washington (Fremont),CA,14,7,0,2.6,Public,North Coast,Fremont,94356,-121.993815,37.5533783,Fall,Scott Harvey,Fall,Scott Harvey,0.067948718
+224,Lemoore,CA,25,6,0,-1.7,Public,Central,Lemoore,93245,-119.779504,36.298216,Fall,Josh Acosta,Fall,Stehpanie Bennett,0.005128205
+225,Newark Memorial (Newark),CA,19,6,0,2.4,Public,North Coast,Newark,94560,-122.0025711,37.5206247,Fall,Andy McKean,Fall,Gordon Crosby,0.071794872
+226,Sequoia (Redwood City),CA,18,8,0,2.7,Public,Central Coast,Redwood City,94062,-122.2365095,37.4842757,Fall,Francisco Andaluz,Fall,Robert Griffin,0.05
+227,Davenport (San Antonio),TX,11,4,0,1.8,Public,,San Antonio,78266,-98.30558,29.65731,,,,,0.011538462
+228,Schurr (Montebello),CA,20,10,0,2.5,Public,Southern,Montebello,90640,-118.123931,34.02722,Fall,David Argumosa,Winter,David Argumosa,0.129487179
+229,Highland Park (Dallas),TX,12,14,0,11.3,Public,,Dallas,75205,-96.8076274,32.8494459,,,,,0.011538462
+230,Troy (Fullerton),CA,12,17,0,12.9,Public,Southern,Fullerton,92831,-117.8923387,33.88068555,Fall,Jason Wilson,Winter,Jason Wilson,0.146153846
+231,Lamar (Houston),TX,7,16,0,16.5,Public,East,Houston,77098,-95.4263076,29.7409401,Spring,Mac McDonald,Spring,Mac McDonald,0.047435897
+232,Sierra (Tollhouse),CA,20,9,0,2.5,Public,Central,Tollhouse,93667,-119.45342,37.03692,Fall,Matt Rothe,Fall,Kelsey Fry,0.005128205
+233,Alameda,CA,18,10,0,5.2,Public,North Coast,Alameda,94501,-122.2476837,37.7643661,Fall,Marshall Dortch,Fall,Jared Thompson,0.051282051
+234,Palo Alto,CA,13,14,0,9.5,Public,Central Coast,Palo Alto,94301,-122.1553327,37.4358242,Fall,Aaron Johnson,Fall,Doug Scotland,0.057692308
+235,Guyer (Denton),TX,10,15,0,14.2,Public,North,Denton,76210,-97.105092,33.137879,Spring,Chris Cullen,Spring,Chris Cullen,0.01025641
+236,Menlo-Atherton (Atherton),CA,15,11,0,7.3,Public,Central Coast,Atherton,94027,-122.1748141,37.45986218,Fall,TBD,Fall,Travis Wyckoff,0.053846154
+237,Bullard (Fresno),CA,15,15,0,8.1,Public,Central,Fresno,93704,-119.808477,36.81649333,Fall,Steve Speir,Fall,Rick Flatt,0.024358974
+238,Bonita (La Verne),CA,12,13,0,9.1,Public,Southern,La Verne,91750,-117.7660486,34.1076397,Fall,Art Villalpando,Winter,Art Villalpando,0.078205128
+239,University (Irvine),CA,11,15,0,10.9,Public,,Irvine,92612,-117.8237428,33.6512325,,,,,0.085897436
+240,Grossmont (El Cajon),CA,6,16,0,13.1,Public,San Diego,La Mesa,91944,-117.0094046,32.77609413,Fall,Clint McLaughlin,Winter,Danielle Cook,0.052564103
+241,Brennan (San Antonio),TX,13,14,2,7.3,Public,Independent,Midlothian,60445,-87.71547,41.61601,Spring,Daniel Minnich,Spring,Neal Zoellick,0.001282051
+242,Great Oak (Temecula),CA,15,9,0,7.4,Public,Southern,Temecula,92592,-117.0908936,33.4550279,Fall,James Fenney,Winter,James Fenney,0.016666667
+243,Centennial (Corona),CA,14,11,0,5.6,Public,Southern,Corona,92881,-117.5447799,33.8559658,Fall,Tara McGinley,Winter,Tara McGinley,0.070512821
+244,St. Francis (La Canada),CA,15,13,0,6.3,Private,,La Canada,91011,-118.182833,34.196364,Fall,Brady Lowdermilk,,,0.075641026
+245,Upland,CA,12,11,0,8.7,Public,Southern,Upland,91786,-117.6584634,34.1051068,Fall,Cody Bell,Winter,Errol Stump,0.071794872
+246,Oak Ridge (El Dorado Hills),CA,14,15,0,9,Public,Sac-Joaquin,El Dorado Hills,95762,-121.0716645,38.68181219,Fall,Patrick Foster,Fall,Patrick Foster,0.025641026
+247,Piedmont,CA,16,10,0,3,Public,North Coast,Piedmont,94611,-122.2331549,37.8231861,Fall,John Savage,Fall,TBA,0.052564103
+248,Edison (Fresno),CA,16,11,0,4.2,Public,Central,Fresno,93706,-119.8060144,36.7212902,Fall,Ben Wright,Fall,Travis Dyer,0.020512821
+249,Clairemont (San Diego),CA,9,17,0,13.6,Public,San Diego,San Diego,92117,-117.203035,32.807012,Fall,Joey Kienle,Winter,Joey Kienle,0.053846154
+250,Hoover (Glendale),CA,9,15,0,11.4,Public,,Glendale,91202,-118.2698103,34.1664429,,,,,0.078205128
+251,Murrieta Mesa (Murrieta),CA,17,9,0,2.3,Public,Southern,Murrieta,92562,-117.200436,33.56585,Fall,Audra Woods,Winter,Audra Woods,0.019230769
+252,Esperanza (Anaheim),CA,7,10,0,7.9,Public,Southern,Anaheim,92807,-117.8042004,33.86823586,Fall,Galen Diaz,Winter,Ashley Diaz,0.13974359
+253,Corona,CA,18,12,0,3.8,Public,Southern,Corona,92882,-117.5853385,33.87316588,Fall,R.J. Hamblin,Winter,Marc Payan,0.087179487
+254,Yorba Linda,CA,12,13,0,7.8,Public,Southern,Yorba Linda,92886,-117.7906166,33.8978855,Fall,Shardad Djahangiry,Winter,Jessica Ernst,0.135897436
+255,Marin Catholic (Kentfield),CA,13,11,0,6.3,Private,North Coast,Kentfield,94904,-122.5461528,37.95463725,Fall,Wayne Eggert,Fall,Sophie Waldron,0.024358974
+256,Heritage (Brentwood),CA,15,13,0,5.3,Public,North Coast,Brentwood,94513,-121.752526,37.924659,Fall,TBA,Fall,Jeff Lapum,0.028205128
+257,Walnut,CA,19,11,0,2.7,Public,Southern,Walnut,91789,-117.86557,34.02034,Fall,Tyler Watkins,Winter,Samantha Lepp,0.124358974
+258,Harlingen South (Harlingen),TX,12,3,0,-5.6,Public,,Harlingen,78552,-97.72076,26.181486,,,,,0.003846154
+259,El Capitan (Merced),CA,13,13,0,7.7,Public,Sac-Joaquin,Merced,95340,-120.47067,37.36822,Fall,Rodd Parker,Fall,Andy Seto,0.006410256
+260,Pharr-San Juan-Alamo North (Pharr),TX,16,1,0,-8.6,Public,,Pharr,78577,-98.16918866,26.23208447,,,,,0.008974359
+261,San Pasqual (Escondido),CA,17,5,0,-4.2,Public,San Diego,Escondido,92025,-117.0551519,33.0774172,Fall,Heather Calvin,Winter,Heather Calvin,0.03974359
+262,Steele Canyon (Spring Valley),CA,14,4,0,-2.8,Public,San Diego,Spring Valley,91978,-116.9265267,32.729887,Fall,Dan Way,Winter,Wes Tart,0.042307692
+263,Rock Hill (Frisco),TX,3,10,0,16.2,Public,,Frisco,75035,-96.76776042,33.21240292,,,,,0.007692308
+264,Westmont (Campbell),CA,17,7,0,0.9,Public,,Campbell,95008,-121.9736725,37.27195728,,,,,0.056410256
+265,David Douglas (Portland),OR,13,6,0,-1,Public,6A,Portland,97233,-122.5278111,45.5136705,Fall,Bobby DeRoest,Fall,Bobby DeRoest,0.014102564
+266,East Lansing,MI,14,14,0,14.5,Public,,East Lansing,48823,-84.4793229,42.7427022,,,,,0
+267,Stevenson (Pebble Beach),CA,12,14,0,8.5,Private,Central Coast,Pebble Beach,93953,-121.9488842,36.5836633,Fall,James Fannin,Fall,TBD,0.007692308
+268,Summit (Bend),OR,18,10,0,1.8,Public,,Bend,97701,-121.3610487,44.0562628,Fall,Aaron Goldman,Fall,Heather Brenda,0.005128205
+269,Fullerton,CA,15,11,0,4.9,Public,Southern,Fullerton,92832,-117.921946,33.874068,Fall,Shane Unger,Winter,Shane Unger,0.141025641
+270,Novato,CA,10,17,0,11.5,Public,North Coast,Novato,94947,-122.5719631,38.09063044,Fall,Rod Crow,Fall,Rod Crow,0.019230769
+271,Cleveland (Reseda),TX,19,11,0,1.4,Public,South,League City,77573,-95.14078826,29.49895291,Spring,Christina Brackett-Silva,Spring,Christina Brackett-Silva,0.020512821
+272,Evergreen Valley (San Jose),CA,16,2,0,-7.7,Public,Central Coast,San Jose,95148,-121.7790541,37.322793,Fall,Jason Wong,Fall,TBA,0.044871795
+273,Gunn (Palo Alto),CA,11,15,0,9.9,Public,Central Coast,Palo Alto,94306,-122.1339437,37.40242385,Fall,Peter Olson,Fall,Mark Hernandez,0.061538462
+274,Villa Park,CA,12,14,0,7.8,Public,Southern,Villa Park,92861,-117.817744,33.81628795,Fall,John Carcich,Winter,Zack Larkin,0.133333333
+275,Oceanside,CA,14,14,0,9,Public,San Diego,Oceanside,92054,-117.373689,33.199261,Fall,Philip Polen,Winter,Vanessa Fenley,0.021794872
+276,Malibu,CA,15,11,0,3.9,Public,Southern,Malibu,90265,-118.8284747,34.0243971,Fall,Mike Mulligan,Winter,Heyden Goldberg,0.011538462
+277,Beaumont,CA,15,9,0,1.5,Public,Southern,Beaumont,92223,-117.0224601,33.96867977,Fall,Nick Jensen,Winter,Angelina Castaneda,0.025641026
+278,O'Connor (Helotes),TX,9,14,1,7.1,Public,,Helotes,78023,-98.68644106,29.55906775,,,,,0.025641026
+279,Mountain View (Bend),OR,15,10,0,1.9,Public,,Bend,97701,-121.2636436,44.07705272,,,,,0.005128205
+280,Del Oro (Loomis),CA,10,18,0,10.8,Public,Sac-Joaquin,Loomis,95650,-121.19143,38.82198,Fall,Jake Hastie,Fall,Megan Hertal,0.023076923
+281,Paso Robles,CA,21,10,0,-0.6,Public,Southern,Paso Robles,93446,-120.6698876,35.6159033,Fall,Duane McRoy,Winter,Grant East,0.001282051
+282,Glendale,CA,18,15,0,3.6,Public,Southern,Glendale,91205,-118.232862,34.14608741,Fall,Narek Vardanian,Winter,Casey Sripramong,0.085897436
+283,Redlands East Valley (Redlands),CA,10,20,0,11.2,Public,Southern,Redlands,92374,-117.1287,34.0628,Fall,Ryan Williams,Winter,Roland Hosch,0.026923077
+284,Cy-Fair (Cypress),TX,8,15,0,10.4,Public,East,Cypress,77429,-95.6526531,29.9423184,Spring,Hannah Dore,Spring,Hannah Dore,0.033333333
+285,Diamond Bar,CA,15,12,0,4.1,Public,Southern,Diamond Bar,91765,-117.83843,33.98163,Fall,Alexander Matal,Winter,Alexander Matal,0.137179487
+286,Woodcreek (Roseville),CA,12,16,0,7.7,Public,Sac-Joaquin,Roseville,95747,-121.3338844,38.7622332,Fall,Bruce Hastie,Fall,Devon Bisquera,0.026923077
+287,Fountain Valley,CA,12,13,0,6.9,Public,Southern,Fountain Valley,92708,-117.9623553,33.706311,Fall,Sam Figueroa,Winter,Jacob Moore,0.108974359
+288,Cabrillo (Lompoc),CA,16,10,0,-2.3,Public,Southern,Lompoc,93436,-120.47374,34.71275,Fall,Jeff Dacus,Winter,Scot Larson,0.003846154
+289,Santa Ynez,CA,8,18,0,11.9,Public,Southern,Santa Ynez,93460,-120.09797,34.60661,Fall,Jake Kalkowski,Winter,Tim Miller,0.001282051
+290,John Paul II (Plano),TX,7,5,0,1.9,Private,,Plano,75075,-96.7655641,33.0109775,,,,,0.019230769
+291,El Modena (Orange),CA,15,10,0,1.4,Public,Southern,Orange,92869,-117.8124947,33.7895925,Fall,Craig Lumb,Winter,Amanda Hicks,0.125641026
+292,Mt. Whitney (Visalia),CA,20,10,0,-2.7,Public,,Visalia,93277,-119.2984998,36.3222194,,,,,0.015384615
+293,San Marcos,TX,10,11,0,5.1,Public,West,San Marcos,78666,-97.9476826,29.8222813,Spring,Britney Cross,Spring,Britney Cross,0.006410256
+294,Health Careers (San Antonio),TX,8,7,0,4,Public,,San Antonio,78229,-98.5782009,29.5210247,,,,,0.025641026
+295,El Camino (Sacramento),CA,21,5,0,-4.6,Public,,Sacramento,95821,-121.364387,38.610152,Fall,John Terra,Varsity/JV,Fall,0.034615385
+296,Mission Bay (San Diego),CA,13,10,0,2,Public,San Diego,San Diego,92109,-117.2258184,32.80095741,Fall,John Knight,Winter,John Knight,0.052564103
+297,Newbury Park,CA,7,15,0,11,Public,Southern,Newbury Park,91320,-118.9530036,34.1839504,Fall,Dave Gleisberg,Winter,Dave Gleisberg,0.017948718
+298,Christian Brothers (Sacramento),CA,17,12,0,2.3,Private,Sac-Joaquin,Sacramento,95820,-121.4646266,38.53602336,Fall,Hannah Widman,Fall,Brian Peck,0.032051282
+299,Harlan (San Antonio),TX,13,12,2,2.7,Public,,San Antonio,78253,-98.67585354,29.48871928,,,,,0.021794872
+300,Hilltop (Chula Vista),CA,16,6,0,-7.5,Public,San Diego,Chula Vista,91910,-117.0601365,32.63754002,Fall,Ernie Medina,Winter,Ernie Medina,0.041025641
+301,Clayton Valley Charter (Concord),CA,16,11,0,1,Public,,Concord,94521,-121.969322,37.946327,,,,,0.044871795
+302,Ramona (Riverside),CA,22,8,0,-4.1,Public,,Riverside,92504,-117.4138879,33.94222745,,,,,0.058974359
+303,Porterville,CA,17,9,0,-1.5,Public,Central,Porterville,93257,-119.0280367,36.0634047,Fall,Mickey Goularte,Fall,Richard Taylor,0.006410256
+304,Crespi (Encino),CA,10,14,0,7.1,Private,Southern,Encino,91316,-118.5206188,34.1612948,Fall,Boyd Lachance,,,0.047435897
+305,Mid-Pacific Institute,HI,1,6,0,17.4,Private,,Honolulu,96822,-157.8185258,21.303457,,,,,0.001282051
+306,Friendswood,TX,8,8,0,5.8,Public,South,Friendswood,77546,-95.210764,29.51485163,Spring,John Little,Spring,John Little,0.025641026
+307,Thousand Oaks,CA,13,17,0,7.4,Public,Southern,Thousand Oaks,91360,-118.8705184,34.2111341,Fall,Zach Graper,Winter,Antonio Pereles-Castro,0.016666667
+308,Western (Anaheim),CA,15,3,0,-8.3,Public,Southern,Anaheim,92804,-118.0020501,33.82573983,Fall,Don Luethke,Winter,Don Luethke,0.128205128
+309,Klein Collins (Spring),TX,9,7,2,2.1,Public,,Spring,77388,-95.47648,30.06248,,,,,0.029487179
+310,Brentwood School (Los Angeles),CA,13,16,0,4.5,Private,Southern,Los Angeles,90049,-118.470246,34.066561,Fall,Rob Bowie,Winter,Rob Bowie,0.061538462
+311,San Joaquin Memorial (Fresno),CA,19,7,0,-3.6,Private,,Fresno,93703,-119.7816019,36.7616369,,,,,0.020512821
+312,George Ranch (Richmond),TX,6,9,0,9.4,Public,,Richmond,77469,-95.7610953,29.5661964,,,,,0.019230769
+313,Peninsula (Rolling Hills Estates),CA,11,19,0,8.1,Public,Southern,Rolling Hills Estates,90274,-118.3730251,33.7777132,Fall,Bryan Weaver,Winter,TBD,0.05
+314,Calabasas,CA,8,11,0,7.4,Public,Southern,Calabasas,91302,-118.636065,34.142626,Fall,Kaileigh Esson,Winter,Kaileigh Esson,0.037179487
+315,West Park (Roseville),CA,19,7,0,-4.4,Public,San Diego,Santee,92071,-117.0103431,32.8498266,Fall,James Searls,Winter,James Searls,0.056410256
+316,Granada Hills Charter (Granada Hills),CA,5,7,0,1.5,Public,Los Angeles City,Granada Hills,91344,-118.5234608,34.2618114,Fall,Gor Asryan,Winter,Gor Asryan,0.03974359
+317,Cypress Falls (Houston),TX,11,11,0,4.7,Public,,Houston,77095,-95.6334354,29.918745,,,,,0.038461538
+318,Kingsburg,CA,15,11,0,0.7,Public,Central,Kingsburg,93631,-119.54778,36.517983,Fall,TBA,Fall,Emily Dewey,0.017948718
+319,Bridgeland (Cypress),TX,15,17,1,8.8,Public,,Cypress,77433,-95.76001,29.93095,,,,,0.025641026
+320,Willow Glen (San Jose),CA,14,14,0,4.4,Public,Central Coast,San Jose,95125,-121.8983847,37.2907329,Fall,Doug Leresche,Fall,Anthony Samson,0.052564103
+321,University City (San Diego),CA,18,8,0,-4.5,Public,San Diego,San Diego,92122,-117.208374,32.860382,Fall,Beto Vasquez,Winter,Audra Bloom,0.05
+322,Fort Bend Clements (Sugar Land),TX,10,5,0,-2.4,Public,,Sugar Land,77479,-95.63219,29.573364,,,,,0.028205128
+323,Fort Bend Travis (Richmond),TX,13,8,0,-2.9,Public,,Richmond,77406,-95.716462,29.6535404,,,,,0.034615385
+324,Del Norte (San Diego),CA,8,14,0,8,Public,,San Diego,92127,-117.1224627,33.0140216,,,,,0.053846154
+325,Deer Park,NY,9,13,0,6,Public,,Deer Park,11729,-73.3341971,40.763002,,,,,0
+326,Golden West (Visalia),CA,16,16,0,2,Public,Central,Visalia,93292,-119.2521059,36.3437598,Fall,Andrei Tsvirinko,,,0.011538462
+327,Lincoln (San Jose),CA,9,2,0,-9.3,Public,Central Coast,San Jose,95126,-121.923863,37.3276968,Fall,Daniel Resz,Fall,Daniel Resz,0.055128205
+328,Glendora,CA,12,14,0,4.3,Public,Southern,Glendora,91741,-117.8354949,34.1346835,Fall,,Winter,,0.085897436
+329,Tesoro (Rancho Santa Margarita),CA,6,16,0,10.4,Public,Southern,Las Flores,92688,-117.6126274,33.5810597,Fall,Christian Cardey,Winter,Kyle Troiano,0.048717949
+330,Claremont,CA,8,13,0,6.3,Public,Southern,Claremont,91711,-117.721953,34.113045,Fall,Kristin Rodriguez,Winter,Gary Cheever,0.069230769
+331,Fort Bend Elkins (Missouri City),TX,8,6,0,-0.5,Public,,Missouri City,77459,-95.5584121,29.5468568,,,,,0.030769231
+332,North Shore (Houston),TX,10,4,0,-5.8,Public,South,Houston,77015,-95.1734718,29.8071282,Spring,Mark Martinez,Spring,Kellyn Burke,0.023076923
+333,Bret Harte (Angels Camp),CA,23,1,0,-14.2,Public,Sac-Joaquin,Angels Camp,95221,-120.4694369,38.1374587,Fall,Dave Hoselton,Fall,Katlyn Rugo,0.002564103
+334,Chaparral (Temecula),CA,6,8,0,5.1,Public,Southern,Temecula,92591,-117.1441852,33.5391074,Fall,Josh Stone,Winter,Josh Stone,0.020512821
+335,Pacifica (Garden Grove),CA,11,13,0,3.3,Public,Southern,Garden Grove,92845,-118.0135655,33.7828593,Fall,Eduardo Osorio,Winter,Cole Fipps,0.119230769
+336,Ridge Point (Missouri City),TX,13,6,0,-4.8,Public,,Missouri City,77459,-95.5151838,29.4835959,,,,,0.029487179
+337,Gilroy,CA,14,9,0,-1.8,Public,Central Coast,Gilroy,95020,-121.5768499,36.9951954,Fall,Doug Pickford,Fall,Doug Pickford,0.006410256
+338,Xavier Prep (Palm Desert),CA,13,6,0,-4.7,Private,Southern,Palm Desert,92211,-116.37212,33.73611,Fall,Pavol Valovic,Winter,Pavol Valovic,0.008974359
+339,Ukiah,CA,13,8,0,-3.9,Public,North Coast,Ukiah,95482,-123.221827,39.161746,Fall,Rick Cleland,Fall,Rick Cleland,0
+340,La Jolla Country Day (La Jolla),CA,14,14,0,4.6,Private,San Diego,La Jolla,92037,-117.21615,32.87847,Fall,Steve Traverso,Winter,Stephanie Heinrich,0.051282051
+341,San Rafael,CA,10,14,0,4.4,Public,North Coast,San Rafael,94901,-122.5139552,37.97163016,Fall,Mike Providenza,Fall,Ken Hauser,0.026923077
+342,Dougherty Valley (San Ramon),CA,11,12,0,3.6,Public,North Coast,San Ramon,94582,-121.9037163,37.7694191,Fall,Matt Denham,Fall,Matt Denham,0.047435897
+343,La Canada,CA,9,15,0,5.9,Public,Southern,La Canada,91001,-118.1759722,34.18519211,Fall,Gilbert Millanes,Winter,Ian Davidson,0.078205128
+344,Sonora,CA,16,11,0,-2.4,Public,Sac-Joaquin,Sonora,95370,-120.38764,37.98368,Fall,Micah Klausman,Fall,Brad Jacobsen,0.001282051
+345,High Tech SD (San Diego),CA,14,10,0,-1.4,Public,San Diego,San Diego,92106,-117.2175097,32.7348702,Fall,Jordan Hamwey,,,0.05
+346,Acalanes (Lafayette),CA,10,15,0,6.2,Public,North Coast,Lafayette,94549,-122.0973788,37.9045498,Fall,,Fall,,0.044871795
+347,Dawson (Pearland),TX,10,11,0,4.7,Public,South,Pearland,77581,-95.27180875,29.53580094,Spring,Matt Winton,Spring,Matt Winton,0.033333333
+348,Tulare Western (Tulare),CA,20,10,0,-4.9,Public,Central,Tulare,93284,-119.35556,36.20119,Fall,David Hodge,Fall,Candice Anderson,0.015384615
+349,Rodriguez (Fairfield),CA,22,7,0,-7.8,Public,Sac-Joaquin,Fairfield,94534,-122.1450906,38.1996616,Fall,Alfred Zemke,Fall,Amber Phelps,0.021794872
+350,Roseville,CA,18,11,0,-4.2,Public,Sac-Joaquin,Roseville,95678,-121.2755849,38.75874795,Fall,Chris Antrim,Fall,Chris Antrim,0.028205128
+351,Tulare Union (Tulare),CA,18,11,0,-2.5,Public,Central,Tulare,93274,-119.3380007,36.2084006,Fall,Jonathan Brogan,Fall,Kim Castro,0.015384615
+352,San Dimas,CA,12,14,0,3.3,Public,Southern,San Dimas,91773,-117.822532,34.09926,Fall,Danny Feola,Winter,Danny Feola,0.08974359
+353,Sierra Pacific (Hanford),CA,20,12,0,-4.4,Public,Central,Hanford,93230,-119.641122,36.316865,Fall,Scott Jordan,Fall,Jessica Bean,0.012820513
+354,Alhambra (Martinez),CA,11,10,0,1.2,Public,North Coast,Martinez,94553,-122.133945,38.00252407,Fall,Ken Harmon,Fall,Megan Nicoella,0.037179487
+355,Buena Park,CA,15,16,0,1.9,Public,Southern,Buena Park,90621,-117.9785547,33.862358,Fall,Scott Liddicoat,Winter,Scott Liddicoat,0.135897436
+356,Rancho Bernardo (San Diego),CA,7,22,0,10.7,Public,San Diego,San Diego,92128,-117.0652107,32.9938834,Fall,Fred Gleason,Winter,Fred Gleason,0.053846154
+357,Nacogdoches,TX,8,4,0,-3.2,Public,,Nacogdoches,75965,-94.6249923,31.6369237,,,,,0
+358,Cedar Ridge (Round Rock),TX,10,16,1,5.5,Public,West,Round Rock,78664,-97.6399068,30.4926943,Spring,Mark Stohrer,Spring,Mark Stohrer,0.008974359
+359,St. Mary's (Stockton),CA,10,19,0,6.4,Private,Sac-Joaquin,Stockton,95267,-121.307255,38.0031046,Fall,Jeff Hoornaert,Fall,Vanessa Vincent,0.014102564
+360,Freedom (Oakley),CA,16,9,0,-3.3,Public,North Coast,Oakley,94561,-121.7508134,38.0045582,Fall,Gina Vancil,Fall,Val Tompkins,0.019230769
+361,Downey (Modesto),CA,12,15,0,3.2,Public,Sac-Joaquin,Modesto,95355,-120.975493,37.657317,Fall,Uriel Villa,Fall,Uriel Villa,0.017948718
+362,Aptos,CA,9,14,0,3.9,Public,Central Coast,Aptos,95003,-121.8680473,36.97454871,Fall,Cody Gilbert,Fall,Mark Knapp,0.017948718
+363,West Albany (Albany),OR,13,9,0,-2.9,Public,,Albany,97321,-123.114081,44.622982,,,,,0.003846154
+364,Prospect (Saratoga),IL,13,5,0,-7.9,Public,MSL East,Mount Prospect,60056,-87.9489819,42.0781294,Spring,Steve Gryzbek,Spring,Tori Shields,0.002564103
+365,Warren (Downey),CA,11,12,0,-2.7,Public,Southern,Downey,90241,-118.1402584,33.937079,Fall,Edgar Villa,Winter,Laura Lopez,0.142307692
+366,Laguna Hills,CA,14,12,0,0.3,Public,Southern,Laguna Hills,92653,-117.7038811,33.5928104,Fall,Blake Corbin,Winter,Blake Corbin,0.058974359
+367,Morro Bay,CA,12,19,0,5.4,Public,Southern,Moreno Valley,92553,-117.2551674,33.9268516,Fall,Pete Burmaster,Winter,Pete Burmaster,0.05
+368,Kennedy (Granada Hills),CA,10,3,0,-14.2,Public,Los Angeles City,Granada Hills,91344,-118.488363,34.2750909,Fall,Chip O'Rourke,Winter,Juan Salais,0.044871795
+369,Tomball,TX,9,10,0,1.8,Public,East,Tomball,77375,-95.6289686,30.1084314,Spring,Brian Vestal,Spring,Brian Vestal,0.028205128
+370,Justin Garza (Fresno),CA,20,6,0,-10.9,Public,,Fresno,93723,-119.9162706,36.7952121,,,,,0.023076923
+371,Valley View (Moreno Valley),CA,14,16,0,1.6,Public,Southern,Moreno Valley,92555,-117.1916219,33.9305296,Fall,Chris Knowles,Winter,Chris Knowles,0.043589744
+372,Livermore,CA,9,13,0,3.6,Public,,Livermore,94550,-121.7626548,37.68102539,,,,,0.030769231
+373,Scripps Ranch (San Diego),CA,12,9,0,-3.7,Public,San Diego,San Diego,92131,-117.1131055,32.9083724,Fall,AJ Ferrill,Winter,Jae Crabtree,0.053846154
+374,Hood River Valley (Hood River),OR,12,15,0,0.5,Public,,Hood River,97031,-121.5470371,45.68303295,,,,,0
+375,Garden Grove,CA,14,11,0,-2.7,Public,Southern,Garden Grove,92840,-117.9364404,33.779015,Fall,Dax Terrack,Winter,Eric Henninger,0.123076923
+376,Peninsula (Gig Harbor),WA,8,5,0,-4.4,Public,SPSL,Gig Harbor,98332,-122.62608,47.38634,Fall,Carter Gilmore,,Millissa Burkey,0.002564103
+377,Cerritos,CA,11,9,0,-6.6,Public,Southern,Cerritos,90703,-118.098922,33.869289,Fall,Jeff Park,Winter,Joseph Owens,0.141025641
+378,Johnson (Buda),TX,12,9,0,-2.4,Public,,Buda,78610,-97.8925,30.09877,,,,,0.01025641
+379,San Marin (Novato),CA,6,18,0,8.3,Public,North Coast,Novato,94954,-122.6087129,38.1198307,Fall,Nick Arrigo,Fall,Tim Blok,0.015384615
+380,El Capitan (Lakeside),CA,13,10,0,-3.3,Public,,Lakeside,92040,-116.916664,32.8681,,,,,0.046153846
+381,Cypress,CA,12,16,0,1.8,Public,Southern,Cypress,90630,-118.028414,33.81931681,Fall,Darren Sandvig,Winter,Darren Sandvig,0.129487179
+382,Burlingame,CA,6,13,0,4.9,Public,Central Coast,Burlingame,94010,-122.3473658,37.5821921,Fall,Austin Carr,Fall,Perry Wu,0.037179487
+383,Milken (Los Angeles),CA,13,7,0,-6.8,Private,Southern,Los Angeles,90049,-118.4785061,34.1262057,Fall,Jason Walters,Winter,Jason Walters,0.056410256
+384,Vintage (Napa),CA,12,10,0,-1,Public,Sac-Joaquin,Napa,94558,-122.3030363,38.3343622,Fall,Mackenzie Heys,Fall,Sarah Saunders,0.01025641
+385,Cypress Springs (Cypress),TX,9,12,0,3.7,Public,East,Cypress,77433,-95.7213708,29.8923821,Spring,Tim Szafran,Spring,Tim Szafran,0.033333333
+386,Homestead (Cupertino),CA,14,11,0,-1.8,Public,Central Coast,Cupertino,95014,-122.0125458,37.3377193,Fall,Sam Hyne,Fall,Heather Bonvechio,0.057692308
+387,Tustin,CA,15,10,0,-2.8,Public,Southern,Tustin,92780,-117.8173077,33.7374689,Fall,Kyle Brawley,Winter,Cesar Altamirano,0.114102564
+388,Fontana,CA,19,8,0,-8.3,Public,Southern,Fontana,92335,-117.4512441,34.0808707,Fall,Spencer Fernandes,Winter,Lauren Fernandes,0.06025641
+389,Grant (Portland),OR,9,18,0,7.5,Public,6A,Portland,97266,-122.5724626,45.4935938,Fall,Brian Hobelman,Fall,Ann Coughlin,0.015384615
+390,Rockwall-Heath (Rockwall),TX,7,6,0,-0.2,Public,,Heath,75032,-96.4742449,32.8463521,,,,,0.01025641
+391,Liberty (Winchester),CA,18,13,0,-4.3,Public,,Winchester,92596,-117.1197975,33.71059963,,,,,0.025641026
+392,Ramona,CA,10,18,0,3.5,Public,San Diego,Ramona,92065,-116.8687666,33.02759,Fall,Donnie Williams,Winter,Donnie Williams,0.028205128
+393,Pioneer (Mission),TX,12,2,0,-15,Public,,Mission,78573,-98.2720685,26.3047793,,,,,0.007692308
+394,Mission San Jose (Fremont),CA,11,15,0,1,Public,North Coast,Fremont,94539,-121.9318642,37.5448604,Fall,Allison Lucarelli ,Fall,Allison Lucarelli ,0.064102564
+395,Texas (Texarkana),TX,4,4,0,-2,Public,,Texarkana,75503,-94.0694818,33.4570948,,,,,0
+396,Whitney (Rocklin),CA,7,22,0,9.2,Public,Sac-Joaquin,Rocklin,95765,-121.290499,38.837323,Fall,Trent Johnson,Fall,Zack Davis,0.021794872
+397,Bella Vista (Fair Oaks),CA,10,13,0,2.4,Public,Sac-Joaquin,Fair Oaks,95628,-121.25173,38.66461,Fall,Bard Petersen,Fall,Bard Petersen,0.035897436
+398,Valencia (Placentia),CA,8,12,0,2.1,Public,Southern,Placentia,92870,-117.868736,33.8758626,Fall,Jason Marganian,Winter,Sarah Schnebly,0.148717949
+399,Tokay (Lodi),CA,6,2,0,-7.8,Public,Sac-Joaquin,Lodi,95240,-121.28552,38.11002,Fall,TBA,Fall,Courtney Porter,0.007692308
+400,Braswell (Little Elm),TX,9,5,0,-5,Public,,Aubrey,76227,-96.92943,33.21919,,,,,0.011538462
+401,Palisades (Pacific Palisades),CA,13,18,0,1.9,Public,Los Angeles City,Pacific Palisades,90272,-118.5319021,34.0469445,Fall,Adam Blackis,Winter,Kirk Lazaruk,0.052564103
+402,Norco,CA,10,8,0,-4.1,Public,Southern,Norco,92860,-117.5481949,33.9119053,Fall,Gareth Pandy,Winter,Gareth Pandy,0.078205128
+403,El Camino (Oceanside),CA,9,12,0,0.6,Public,,Oceanside,92057,-117.3198151,33.2215663,,,,,0.024358974
+404,Salinas,CA,4,8,0,3.9,Public,Central Coast,Salinas,93901,-121.658012,36.6676275,Fall,Thomas Carroll,Fall,Bob Agan,0.01025641
+405,Sheldon (Eugene),OR,12,12,0,-1.5,Public,6A,Eugene,97401,-123.0741092,44.0813571,Fall,Matt Brown,Fall,Matt Brown,0.005128205
+406,Sonora (La Habra),CA,11,13,0,-0.7,Public,,La Habra,90631,-117.9265942,33.928037,,,,,0.15
+407,Torrance,CA,16,9,0,-6.2,Public,Southern,Torrance,90501,-118.3202349,33.8283805,Fall,Dave Kastigar,Winter,Dave Kastigar,0.075641026
+408,South Grand Prairie (Grand Prairie),TX,2,9,0,9.3,Public,,Grand Prairie,75052,-97.0056112,32.6952113,,,,,0.006410256
+409,Frontier (Bakersfield),CA,16,11,0,-5.4,Public,,Bakersfield,93314,-119.1454739,35.36518404,,,,,0.011538462
+410,Don Lugo (Chino),CA,14,8,0,-7.4,Public,Southern,Chino,91710,-117.65897,34.01115,Fall,Gary Cheever,Winter,Toby Lizer,0.083333333
+411,Conroe,TX,3,12,0,8.6,Public,East,Conroe,77304,-95.48431975,30.3226363,Spring,Mike Porter,Spring,Mike Porter,0.007692308
+412,Harbor (Santa Cruz),CA,7,15,0,408,Public,Central Coast,Santa Cruz,95062,-121.994697,36.9868692,Fall,Christopher Iniguez,Fall,Jake Soares,0.015384615
+413,Lincoln (Stockton),CA,14,13,0,-1.2,Public,Sac-Joaquin,Stockton,95207,-121.3392484,38.0099942,Fall,Matt Thomas,Fall,Gracie Smith,0.014102564
+414,Clear Lake (Houston),TX,3,13,0,9.9,Public,South,League City,77573,-95.02697373,29.50756004,Spring,Aubrey Estes,Spring,Aubrey Estes,0.015384615
+415,Elsinore (Wildomar),CA,10,8,0,-2.8,Public,Southern,Wildomar,92595,-117.278416,33.623379,Fall,Mat Puig,Winter,Rachel Carroll,0.023076923
+416,Reagan (San Antonio),TX,7,9,1,2.4,Public,,San Antonio,78258,-98.48805,29.61893,,,,,0.025641026
+417,Sierra (Manteca),CA,16,15,0,-3.8,Public,,Manteca,95337,-121.24646,37.793619,,,,,0.020512821
+418,Roosevelt (Eastvale),CA,5,16,0,6.8,Public,,Eastvale,92880,-117.56927,33.9536866,,,,,0.075641026
+419,South (Torrance),CA,10,14,0,0.7,Public,,Torrance,90505,-118.3640459,33.8124507,,,,,0.062820513
+420,Hillsdale (San Mateo),CA,7,12,0,1.7,Public,Central Coast,San Mateo,94403,-122.3142341,37.5315465,Fall,Renato Hodzic,Fall,Brett Busser,0.03974359
+421,Granada (Livermore),CA,10,13,0,2.4,Private,North Coast,Livermore,94551,-121.787809,37.675211,Fall,John Newkirk,Fall,Tricia Vieira,0.030769231
+422,Cypress Ridge (Houston),TX,3,15,0,9.3,Public,,Houston,77041,-95.6039805,29.8913215,,,,,0.041025641
+423,Stockdale (Bakersfield),CA,16,13,0,-3.5,Public,,Bakersfield,93311,-119.1280442,35.3298243,,,,,0.011538462
+424,Cathedral (Los Angeles),CA,8,10,0,-2.7,Private,Southern,Los Angeles,90012,-118.233568,34.06929269,Fall,Juan Salais,,,0.106410256
+425,Cabrillo (Long Beach),CA,11,9,0,-4.2,Public,,Long Beach,90810,-118.2204166,33.7949342,,,,,0.1
+426,Canyon Lake (Fischer),TX,12,9,0,-4.3,Public,West,Fischer,78623,-98.2146432,29.9437667,Spring,Lee Willing,,,0.003846154
+427,Temescal Canyon (Lake Elsinore),CA,11,11,0,-2.7,Public,Southern,Lake Elsinore,92532,-117.3492497,33.7025816,Fall,Kevin Smith,Winter,Kevin Smith,0.038461538
+428,Lincoln (Portland),OR,10,16,0,2.7,Public,6A,Portland,97205,-122.6887853,45.51941892,Fall,Tyler Sinner,Fall,Mike Byrd,0.016666667
+429,Canyon (New Braunfels),TX,5,8,0,1.8,Public,,New Braunfels,78130,-98.08697215,29.71958793,,,,,0.005128205
+430,Bellaire,TX,2,11,0,11.1,Public,,Bellaire,77401,-95.46985668,29.6920998,,,,,0.048717949
+431,Pharr-San Juan-Alamo (San Juan),TX,12,11,0,-4.1,Public,,San Juan,78589,-98.16714988,26.1758511,,,,,0.008974359
+432,Lakewood,CA,12,13,0,-2.2,Public,Southern,Lakewood,90713,-118.1231488,33.83783373,Fall,Phil Geiger,Winter,TBD,0.137179487
+433,Wilcox (Santa Clara),CA,12,8,0,-6.6,Public,Central Coast,Santa Clara,95051,-121.92838,37.34974,Fall,Rich Cruzen,Fall,Jake Paolinetti,0.056410256
+434,Clear Brook (Friendswood),TX,0,14,0,14.5,Public, ,Friendswood,77546,-95.187035,29.547994,Fall,Matt Vecchio,Fall,Kelsey Carrigan,0.044871795
+435,Baldwin Park,CA,14,6,0,-10.9,Public,Southern,Baldwin Park,91706,-117.949727,34.085098,Fall,Thomas Schuleck,Winter,Kersh Thomas,0.119230769
+436,Oxnard,CA,4,13,0,6.1,Public,Southern,Oxnard,93036,-119.2131575,34.2184051,Fall,John Castellano,Winter,Paul Velasquez,0.015384615
+437,Anaheim,CA,17,12,0,-5.6,Public,,anaheim,92805,-117.910492,33.826287,,,,,0.128205128
+438,West Hills (Santee),CA,11,12,0,-2.9,Public,Southern,West Covina,91791,-117.9138203,34.0627824,Fall,Elizabeth Roberts,Winter,Elizabeth Roberts,0.120512821
+439,Yosemite (Oakhurst),CA,14,9,0,-7,Public,Central,Oakhurst,93644,-119.638016,37.329671,Fall,Vince Roeper,Fall,Vince Roeper,0
+440,Charter Oak (Covina),CA,6,18,0,4.5,Public,Southern,Covina,91724,-117.8599533,34.097941,Fall,Jordan Carmody,Winter,,0.1
+441,Rancho Buena Vista (Vista),CA,12,5,0,-9.9,Public,San Diego,Vista,92081,-117.2477013,33.163055,Fall,Scott DeLeeuw,Winter,Scott DeLeeuw,0.033333333
+442,Montclair,CA,5,7,0,-7.9,Public,Southern,Montclair,91763,-117.7028362,34.0723989,Fall,Victoria Hodge,Winter,Elaine Hodge,0.078205128
+443,Napa,CA,9,10,0,-3.1,Public,Sac-Joaquin,Napa,94558,-122.296374,38.310234,Fall,Ashiq Khan,Fall,Ashiq Khan,0.011538462
+444,The Webb Schools (Claremont),CA,20,11,0,-9.4,Private,Southern,Claremont,91711,-117.7385459,34.121483,Fall,Howie Kalter,Winter,Thomas Jurczak,0.069230769
+445,Mar Vista (Imperial Beach),CA,9,13,0,-0.9,Public,San Diego,Imperial Beach,91932,-117.122817,32.5780807,Fall,Chad Kavanagh,Winter,Chad Kavanagh,0.032051282
+446,Palm Springs,CA,12,10,0,-5.6,Public,Southern,Palm Springs,92262,-116.520984,33.8180339,Fall,Norm Van Wieren,,,0.008974359
+447,El Cerrito,CA,12,7,0,-9.7,Public,,El Cerrito,94530,-122.2939248,37.906899,,,,,0.047435897
+448,Birmingham (Lake Balboa),CA,12,18,0,0.3,Public,Los Angeles City,Van Nuys,91306,-118.5043159,34.1886226,Fall,Vincent Kezman,Winter,Stacy Smith,0.048717949
+449,Mountain View,CA,3,18,0,8.9,Public,Central Coast,Mountain View,94040,-122.067156,37.3586027,Fall,Carl Canning,Fall,Drew Enlow,0.062820513
+450,Beverly Hills,CA,7,10,0,-2.1,Public,Southern,Beverly Hills,90212,-118.4104517,34.0614663,Fall,Ahmad Hosseini,Winter,Shadi Eghbali,0.079487179
+451,Leigh (San Jose),CA,6,12,0,2,Public,,San Jose,95124,-121.9199201,37.241602,,,,,0.05
+452,Westview (Portland),OR,6,7,0,0.4,Public,6A,Portland,97229,-122.8650163,45.549711,Fall,Ian Bricken,Fall,Ian Bricken,0.016666667
+453,Vista Murrieta (Murrieta),CA,3,10,0,4.5,Public,Southern,Murrieta,92563,-117.1585119,33.59777212,Fall,Shane Anderson,Winter,Shane Anderson,0.020512821
+454,Ocean View (Huntington Beach),CA,10,10,0,-4.8,Public,Southern,Huntington Beach,92647,-118.0001715,33.7140193,Fall,Melissa Fernandez,Winter,Melissa Fernandez,0.108974359
+455,Foothill Tech (Ventura),CA,4,12,0,4.3,Public, ,Ventura,93003,-119.226195,34.278627,Fall,Raymond Miller,,, 
+456,San Domenico (San Anselmo),CA,0,11,0,13,Private,,San Anselmo,94960,-122.5781641,37.98772535,,,,,0.021794872
+457,Boerne,TX,2,14,0,9.4,Public,West,Boerne,78006,-98.71262538,29.7989491,Spring,Matt Ross,,,0.01025641
+458,American (Fremont),CA,8,13,0,-1.3,Public,North Coast,Fremont,94536,-122.0192472,37.5645474,Fall,Raymond Gerardo,Fall,TBA,0.064102564
+459,Bishop O'Dowd (Oakland),CA,8,17,0,1,Private,North Coast,Oakland,94605,-122.1552721,37.753902,Fall,Neal Hamilton,Fall,Neal Hamilton,0.056410256
+460,Waltrip (Houston),TX,7,1,0,-16.4,Public,,Houston,77018,-95.4323189,29.8187625,,,,,0.043589744
+461,Hemet,CA,14,11,0,-6.6,Public,Southern,Hemet,92544,-116.9643443,33.7294367,Fall,Mason Rafferty,Winter,Alexis Paulson,0.017948718
+462,Atwater,CA,11,13,0,-0.8,Public,Sac-Joaquin,Atwater,95302,-120.607224,37.341778,Fall,David Svendsen,Fall,Shelby West,0.008974359
+463,Patriot (Jurupa Valley),CA,12,11,0,-10.6,Public,,Jurupa Valley,92509,-117.4492128,34.01050779,,,,,0.058974359
+464,Otay Ranch (Chula Vista),CA,13,13,0,-9.7,Public,San Diego,Chula Vista,91913,-116.9906443,32.62045,,,Winter,,0.033333333
+465,Hoover (Fresno),CA,12,2,0,-17.7,Public,Central,Fresno,93710,-119.7723565,36.818442,Fall,Kyle Bunch,Fall,TBA,0.023076923
+466,Midway (Waco),TX,7,11,0,0,Public,,Waco,76712,-97.2007476,31.4852818,,,,,0
+467,Bakersfield Christian (Bakersfield),CA,15,11,0,-7.3,Private,Central,Bakersfield,93314,-119.1422345,35.3510711,Fall,Amanda Stepp,Fall,Amanda Stepp,0.011538462
+468,Franklin (Elk Grove),CA,15,8,0,-8,Public,Sac-Joaquin,Elk Grove,95757,-121.4230532,38.3940709,Fall,TBA,Fall,TBA,0.021794872
+469,Villanova Prep (Ojai),CA,7,9,0,-2.3,Private,Southern,Ojai,93023,-119.2635924,34.430319,Fall,Tim Settem,Winter,Tim Settem,0.012820513
+470,Sunny Hills (Fullerton),CA,10,18,0,-0.4,Public,Southern,Fullerton,92833,-117.9535824,33.88342065,Fall,Keith Nighswonger,Winter,Keith Nighswonger,0.144871795
+471,Stevens (San Antonio),TX,9,6,0,-7.6,Public,,San Antonio,78251,-98.6842195,29.4401769,,,,,0.020512821
+472,Arroyo Valley (San Bernardino),CA,16,9,0,-12.1,Public,Southern,San Bernardino,92411,-117.3284639,34.121269,Fall,Pete Gonzalez,Winter,Jen Bridges,0.043589744
+473,Hanford,CA,14,16,0,-3.9,Public,Central,Hanford,93230,-119.6456083,36.3425392,Fall,Lori Verdegall,Fall,Chloe Morse,0.014102564
+474,Mira Loma (Sacramento),CA,9,11,0,-6.8,Public,Sac-Joaquin,Sacramento,95821,-121.46372,38.56013,Fall,Lindsay Wing,Fall,Maria Contreras,0.033333333
+475,Nipomo,CA,13,9,0,-7.9,Public,Southern,Nipomo,93444,-120.4860715,35.0518997,Fall,Kurt Lindgren,Winter,Kurt Lindgren,0.006410256
+476,Milpitas,CA,7,7,0,-5.8,Public,Central Coast,Milpitas,95035,-121.9021803,37.4505958,Fall,Brett Burns,Fall,Eman Ghoreyshi,0.065384615
+477,Cypress Lakes (Katy),TX,6,13,0,1.9,Public,,Katy,77449,-95.7033401,29.8544374,,,,,0.038461538
+478,Pearland,TX,6,17,0,4.9,Public,South,Pearland,77581,-95.27115802,29.53802314,Spring,Chris Roberts,Spring,Chris Roberts,0.033333333
+479,Exeter,CA,15,16,0,-5,Public,Central,Exeter,93221,-119.1349262,36.298155,Fall,Amand Ogata,Fall,Patrick Hendricks,0.014102564
+480,Fremont (Sunnyvale),CA,0,14,0,11.5,Public,,Sunnyvale,94087,-122.0347454,37.3540092,,,,,0.057692308
+481,Mission Hills (San Marcos),CA,14,7,0,-8.7,Public,San Diego,San Marcos,92069,-117.1455668,33.14533758,Fall,Derek Nelson,Winter,Kaitlyn Persky,0.035897436
+482,Chaffey (Ontario),CA,8,8,0,-7,Public,Southern,Ontario,91762,-117.6544313,34.0801435,Fall,,Winter,Brianna Kuri,0.074358974
+483,Christopher (Gilroy),CA,6,5,0,-8.5,Public,Central Coast,Gilroy,95020,-121.5998092,37.03844764,Fall,Paul Wells,Fall,Kelly Coleman,0.008974359
+484,Oak Park,IL,0,7,0,11.8,Public,WSC,Oak Park,60302,-87.7896497,41.8904544,Spring,John Rapp,Spring,Beth Perez,0.003846154
+485,Inderkum (Sacramento),CA,7,16,0,1.5,Public,,Sacramento,95835,-121.521008,38.658194,,,,,0.035897436
+486,Oakdale,CA,9,17,0,-1.4,Public,Sac-Joaquin,Oakdale,95361,-120.8540779,37.7599116,Fall,Diane Kline,Fall,Diane Kline,0.014102564
+487,Pacific Ridge (Carlsbad),CA,3,8,0,0.9,Private,San Diego,Carlsbad,92009,-117.2491746,33.12431485,Fall,Christine DeHaven,,,0.035897436
+488,Santa Teresa (San Jose),CA,6,6,0,-7.4,Public,Central Coast,San Jose,95123,-121.828099,37.2348679,Fall,Todd Mesa,Fall,Ben Murray,0.046153846
+489,Warren (San Antonio),TX,3,11,0,3.2,Public,,San Antonio,78251,-98.6685185,29.4645139,,,,,0.021794872
+490,Enochs (Modesto),CA,7,13,0,-0.4,Public,Sac-Joaquin,Modesto,95355,-120.935069,37.689071,Fall,Nick French,Fall,Nick French,0.017948718
+491,Costa Mesa,CA,6,15,0,0.4,Public,Southern,Coast Mesa,92626,-117.9066295,33.67082855,Fall,Cody Serrano,Winter,Dustin Serrano,0.098717949
+492,Bonita Vista (Chula Vista),CA,6,13,0,-0.8,Public,San Diego,Chula Vista,91913,-116.9972284,32.6439414,Fall,Andrea Alexander,Winter,Andrea Alexander,0.035897436
+493,Santa Clara,CA,12,14,0,-6.4,Public,Central Coast,Santa Clara,95051,-121.982146,37.346519,Fall,Ed Simonin,Fall,Aja Bumbaca,0.055128205
+494,Kennedy (La Palma),CA,10,9,0,-7.6,Public,,La Palma,90623,-118.0372339,33.8421451,,,,,0.137179487
+495,Chadwick (Palos Verdes Peninsula),CA,3,12,0,4.2,Private,Southern,Palos Verdes Peninsula,90274,-118.36132,33.77693,Fall,Robert Lynn,Winter,Robert Lynn,0.052564103
+496,JW North (Riverside),CA,13,11,0,-8.5,Public,,Riverside,92507,-117.3462618,33.98120135,,,,,0.056410256
+497,Central (Fresno),CA,7,21,0,3.4,Public,Central,Fresno,93722,-119.88048,36.7868644,Fall,Nick Fadden,,,0.023076923
+498,Langham Creek (Houston),IL,7,14,0,0,Public,CPS North,Chicago,60618,-87.6907181,41.945502,Spring,Matt O'Hagan,Spring,Anthony Bartucci,0.002564103
+499,Citrus Valley (Redlands),CA,8,14,0,-1.2,Public,Southern,Redlands,92374,-117.194482,34.081938,Fall,Mike Esquer,Winter,,0.033333333
+500,Rowland (Rowland Heights),CA,10,13,0,-5.4,Public,,Rowland Heights,91748,-117.885183,33.981869,,,,,0.138461538
+501,Palma (Salinas),CA,3,6,0,-1.9,Private,Central Coast,Salinas,93901,-121.6649415,36.6639589,Fall,Victor Plata,,,0.01025641
+502,Olympian (Chula Vista),CA,8,14,0,-2.6,Public,San Diego,Chula Vista,91913,-116.9731171,32.6090498,Fall,Rachael Medina,Winter,Rachael Medina,0.033333333
+503,El Toro (Lake Forest),CA,1,21,0,9.3,Public,Southern,Lake Forest,92630,-117.6877516,33.6369734,Fall,Tim Fredericksen,Winter,Tim Fredericksen,0.065384615
+504,La Salle (Pasadena),CA,6,12,0,-0.6,Private,Southern,Pasadena,91107,-118.0699414,34.161022,Fall,Thomas Clauss,Winter,Thomas Clauss,0.082051282
+505,Estancia (Costa Mesa),CA,13,15,0,-6.5,Public,Southern,Costa Mesa,92627,-117.9344521,33.6590315,Fall,TBD,TBD,,0.097435897
+506,Marina (Huntington Beach),CA,3,21,0,6.2,Public,Southern,Huntington Beach,92649,-118.0241851,33.7307721,Fall,Brian Baier,Winter,Tamara Towgood,0.11025641
+507,Sunset (Portland),OR,9,11,0,-0.9,Public,6A,Portland,97229,-122.8212757,45.5280576,Fall,Scott Raegen,Fall,Scott Raegen,0.017948718
+508,Fort Bend Austin (Sugar Land),TX,8,15,0,-1.8,Public,,Sugar Land,77498,-95.6765092,29.64088,,,,,0.033333333
+509,West Covina,OR,7,15,0,-2.3,Public,6A,Albany,97321,-123.1172682,44.62118325,Fall,Ron Neike,Fall,Rob Romancier,0.003846154
+510,Ayala (Chino Hills),CA,6,14,0,-0.8,Public,Southern,Chino Hills,91709,-117.7327751,33.99733148,Fall,Paul Marceau,Winter,Amber Pezzolla,0.098717949
+511,John Marshall (San Antonio),TX,0,13,0,10,Public,,San Antonio,78240,-98.6199758,29.5130018,,,,,0.024358974
+512,Madera,CA,11,17,0,-3.4,Public,Central,Madera,93637,-120.065842,36.955934,Fall,Rick Martines,Fall,Erik Baymiller,0.012820513
+513,Santa Fe (Santa Fe Springs),CA,9,7,0,-10,Public,Southern,Santa Fe Valley,90670,-118.0908643,33.94012237,Fall,Sarah Peel,Winter,Rick Nakashima,0.147435897
+514,Monrovia,CA,2,12,0,5.3,Public,Southern,Monrovia,91016,-118.0171198,34.1482383,Fall,Kris Williams,Winter,Lev Bates,0.092307692
+515,Monta Vista (Cupertino),CA,5,8,0,-3.4,Public,Central Coast,Cupertino,95014,-122.0567492,37.3136964,Fall,Ben Vierra,Fall,Chris Love,0.057692308
+516,Beyer (Modesto),CA,17,7,0,-14.7,Public,Sac-Joaquin,Modesto,95355,-120.9683961,37.6890364,Fall,Christie Castle,Fall,Christie Castle,0.017948718
+517,Jay (San Antonio),TX,7,5,0,-9.4,Public,,San Antonio,78227,-98.6401832,29.4195889,,,,,0.020512821
+518,El Diamante (Visalia),CA,7,19,0,-0.3,Public,Central,Visalia,93277,-119.347201,36.3069727,Fall,Rory Collinwood,Fall,Robert Young,0.016666667
+519,Pioneer (Whittier),CA,16,12,0,-10,Public,,Whittier,90606,-118.078952,33.971877,,,,,0.143589744
+520,Modesto,CA,3,10,0,1.5,Public,Sac-Joaquin,Modesto,95351,-121.0073817,37.6299066,Fall,TBA,Fall,TBA,0.017948718
+521,Forest Grove,OR,1,11,0,6.4,Public,6A,Forest Grove,97116,-123.1207719,45.5351498,Fall,Raymond Miller,,,0.008974359
+522,Sterling (Baytown),TX,3,8,0,-0.3,Public,South,Baytown,77521,-94.9695286,29.7734017,Spring,Michael Fanning,Spring,Michael Fanning,0.008974359
+523,Sonoma Valley (Sonoma),CA,6,7,0,-7.3,Public,North Coast,Sonoma,95476,-122.4578266,38.2831778,Fall,Matthew McGinty,Fall,Matthew McGinty,0.011538462
+524,Hays (Buda),TX,6,10,0,-2.2,Public,West,Buda,78610,-97.8742069,30.0502333,Spring,Lance Clary,,,0.008974359
+525,Arlington (Riverside),CA,4,20,0,3.7,Public,Southern,Riverside,92503,-117.4296431,33.9149558,Fall,Chris Ward,Winter,Chris Ward,0.056410256
+526,St. Patrick-St. Vincent (Vallejo),CA,10,6,0,-11.2,Private,North Coast,Vallejo,94591,-122.2009028,38.0861801,Fall,Leo Ocon,Fall,Leo Ocon,0.035897436
+527,Forney,TX,11,10,0,-8,Public,North,Forney,75126,-96.457607,32.72401165,Spring,Dwayne Davis,,,0.007692308
+528,Bend,CA,7,12,0,-5.3,Public,Sac-Joaquin,Benicia,94510,-122.175536,38.064203,Fall,David Fry,Fall,Donny Mata,0.034615385
+529,Westminster,CA,8,15,0,-3.5,Public,Southern,Westminister,92683,-118.0110522,33.7537524,Fall,Matt Cain,Winter,Matt Cain,0.115384615
+530,Van Nuys,CA,6,4,0,-13.7,Public,Los Angeles City,Van Nuys,91411,-118.4552689,34.189156,Fall,Marelen Villalta,,,0.053846154
+531,Monterey Trail (Elk Grove),CA,7,7,0,-9.2,Public,Sac-Joaquin,Elk Grove,95624,-121.3920368,38.4390401,Fall,Hillary Hong,Fall,Hillary Hong,0.021794872
+532,Manvel,TX,2,9,0,2,Public,South,Manvel,77578,-95.36784,29.47118,Spring,Rick Veal,Spring,Rick Veal,0.030769231
+533,Ryan (Denton),TX,5,11,0,-1.2,Public,Southern,Denton,76208,-97.077624,33.208877,Fall,Mike Potter,Winter,Devin Hurst, 
+534,Dublin,CA,3,14,0,2.5,Public,,Dublin,94568,-121.9238647,37.7207918,,,,,0.043589744
+535,Cottage Grove,OR,11,9,0,-10.4,Public,5A/4A,Cottage Grove,97424,-123.0401319,43.8014569,Fall,Tyson Pilling,,,0.002564103
+536,Tigard,OR,6,18,0,0.8,Public,6A,Tigard,97224,-122.7691885,45.4023417,Fall,John Ruzicka,Fall,John Ruzicka,0.017948718
+537,Selma,CA,11,13,0,-6.9,Public,Central,Selma,93662,-119.6152459,36.58045125,Fall,Harold Wood,Fall,Harold Wood,0.021794872
+538,Cajon (San Bernardino),CA,9,14,0,-4.8,Public,Southern,San Bernardino,92407,-117.3101147,34.17549896,Fall,John Anderson,Winter,John Anderson,0.035897436
+539,Lick-Wilmerding (San Francisco),CA,6,14,0,-2.5,Private,North Coast,San Francisco,94112,-122.4490006,37.7221877,Fall,JD Ellington,Fall,JD Ellington,0.030769231
+540,Venice (Los Angeles),CA,5,8,0,-7.1,Public,3,Venice,34285,-118.472023,33.98827,Spring,Jon Baca,Jon Baca,,0.06025641
+541,Concord,CA,7,11,0,-5.6,Public,North Coast,Concord,94521,-121.99117,37.977161,Fall,TBA,Fall,Elizabeth Butticci,0.042307692
+542,River City (West Sacramento),CA,12,16,0,-6.4,Public,Sac-Joaquin,West Sacramento,95691,-121.54077,38.54548,Fall,Ryan Mosley,Fall,Ryan Mosley,0.029487179
+543,Fort Bend Dulles (Sugar Land),TX,6,8,0,-4,Public,,Sugar Land,77478,-95.5846641,29.6192118,,,,,0.03974359
+544,Tracy,CA,13,15,0,-8.7,Public,Sac-Joaquin,Tracy,95376,-121.4053892,37.7396381,Fall,Brian Keeney,Fall,Julie Verwijst,0.012820513
+545,Caney Creek (Conroe),TX,1,7,0,3.3,Public,,Conroe,77306,-95.310959,30.25535,,,,,0.007692308
+546,Benicia,CA,7,10,1,-5.5,Public,North Coast,Berkeley,94704,-122.271379,37.8670513,Fall,Bill Gaebler,Fall,Bill Gaebler,0.048717949
+551,Paloma Valley (Menifee),CA,8,16,0,-4.6,Public,Southern,Menifee,92584,-117.1920421,33.6650565,Fall,Mark Garrett,Winter,Mark Garrett,0.023076923
+552,Justin-Siena (Napa),CA,7,12,0,-5.1,Private,North Coast,Napa,94558,-122.3231818,38.3314339,Fall,Fabian Camacho,Fall,Fabian Camacho,0.01025641
+553,Pieper (San Antonio),TX,3,12,0,2.9,Public,,San Antonio,78260,-98.4707391,29.7216125,,,,,0.016666667
+554,Eagle Rock (Los Angeles),CA,4,9,0,-4.1,Public,Los Angeles City,Los Angeles,90041,-118.2060451,34.1333054,Fall,Alan Clemente,Winter,Alan Clemente,0.094871795
+555,Carlmont (Belmont),CA,2,11,0,1.7,Public,Central Coast,Belmont,94002,-122.288721,37.5051367,Fall,Justine Hedlund,Fall,Bernice O'Connor,0.042307692
+556,Pleasant Grove (Elk Grove),CA,7,8,0,-7.2,Public,,Elk Grove,95624,-121.3436648,38.42354826,,,,,0.021794872
+557,Liberty (Bakersfield),CA,8,10,0,-6.6,Public,,Bakersfield,93312,-119.1280204,35.3646859,,,,,0.011538462
+558,Gregori (Modesto),CA,4,16,0,0.8,Public,Sac-Joaquin,Modesto,95356,-120.94089,38.673083,Fall,TBA,Fall,TBA,0.015384615
+559,Wilson (Hacienda Heights),CA,7,7,0,-11.3,Public,Southern,Hacienda Heights,91745,-117.9464381,33.9996713,Fall,Jonathan Heredia,Winter,Jonathan Heredia,0.138461538
+560,San Pedro,CA,8,11,0,-5.2,Public,Los Angeles City,San Pedro,90731,-118.299127,33.730549,Fall,Cesar Vazquez,Winter,Cesar Vazquez,0.055128205
+561,San Bernardino,CA,11,10,0,-11.2,Public,Southern,San Bernardino,92405,-117.2942805,34.13187216,Fall,Anthony Marquez,Winter,Anthony Marquez,0.03974359
+562,Blair (Pasadena),CA,2,13,0,2,Public,Southern,Pasadena,91106,-118.142865,34.12574,Fall,Trevor Barnes,,,0.093589744
+563,Pasadena,CA,2,15,0,3,Public,Southern,Pasadena,91107,-118.09191,34.161414,Fall,Sean Phillips,Winter,Sean Phillips,0.082051282
+564,La Mirada,CA,9,10,0,-8.2,Public,Southern,La Mirada,90638,-118.0043604,33.9084131,Fall,Josh Grossman,Winter,Josh Grossman,0.143589744
+565,Los Banos,CA,4,11,0,-2.7,Public,Sac-Joaquin,Los Banos,93635,-120.8421995,37.0516391,Fall,Darryl Barger,Fall,Bowman Halpin,0.001282051
+566,Orange,CA,11,8,0,-12.2,Public,Southern,Ontario,91762,-117.6655523,34.0391194,Fall,Luis Serrano,Winter,Luis Serrano,0.079487179
+567,Bakersfield,CA,13,14,0,-11,Public,,Bakersfield,93304,-119.0224984,35.3689321,,,,,0.011538462
+568,Los Amigos (Fountain Valley),CA,9,12,0,-8.9,Public,Southern,Fountain Valley,92708,-117.9263322,33.7221331,Fall,Tim Brogdon,Winter,Chris Roman,0.111538462
+569,La Porte,TX,5,8,0,-3.4,Public,South,La Porte,77571,-95.017045,29.652577,Spring,Jacob Berg,,,0.015384615
+570,Pharr-San Juan-Alamo Southwest (PJSA) High School,TX,5,9,1,-6.4,Public,,Pharr,78577,-98.18633,26.15754,,,,,0.008974359
+571,El Dorado (Placerville),CA,9,7,1,-12,Public,Sac-Joaquin,Placerville,95667,-120.8119453,38.73210395,Fall,Heather Robertson,Fall,Heather Robertson,0.005128205
+572,Edgewood (West Covina),CA,17,12,0,-12.7,Public,Southern,West Covina,91790,-117.9490563,34.0613201,Fall,Jacqui Sanchez,,,0.128205128
+573,Sprague (Salem),OR,5,6,0,-10.98,Public,6A,Salem,97302,-123.0656786,44.8828333,Fall,Jordan Branch,Fall,Jordan Branch,0.006410256
+574,Southwest (San Antonio),TX,5,10,0,-3.4,Public,,San Antonio,78252,-98.6677448,29.3116355,,,,,0.019230769
+575,Pacific (San Bernardino),CA,8,8,0,-10.1,Public,Southern,San Bernardino,92404,-117.2654406,34.12871288,Fall,Gonsalo Barragan,Winter,Gonsalo Barragan,0.038461538
+576,Indio,CA,7,7,0,-12.6,Public,Southern,Indio,92201,-116.2371334,33.7148735,Fall,Raymond Perez,Winter,,0.008974359
+577,Fresno,CA,7,3,0,-18,Public,Central,Fresno,93704,-120.3311638,36.13203043,Fall,Brook Bernstien,Fall,Kristi Rose,0
+578,Hanford West (Hanford),CA,8,15,0,-5.9,Public,Central,Hanford,93230,-119.6626145,36.3279075,Fall,Kevin Jauregui,,,0.01025641
+579,Dixon,CA,13,15,0,-9.3,Public,Sac-Joaquin,Dixon,95620,-121.8161646,38.4355559,Fall,Kraig Katzenmeyer,Fall,Kraig Katzenmeyer,0.008974359
+580,Los Angeles CES (Los Angeles),CA,3,8,0,-7.5,Public,Los Angeles City,Los Angeles,90035,-118.3716651,34.0436461,Fall,Charlie Silva Lopez,Winter,Charlie Silva Lopez,0.093589744
+581,Mountain House,CA,5,13,0,-4.5,Public,Sac-Joaquin,Mountain House,95391,-121.5397202,37.78629113,Fall,TBA,Fall,TBA,0.017948718
+582,Oakmont (Roseville),CA,7,16,0,-3.6,Public,Sac-Joaquin,Roseville,95661,-121.2602881,38.7276756,Fall,Mark Plank,Fall,Casey Cornilsen,0.030769231
+583,Union Mine (El Dorado),CA,9,6,0,-14.3,Public,,El Dorado,95623,-120.8384953,38.677102,,,,,0.006410256
+584,McNeil (Austin),TX,2,16,0,2.1,Public,West,Austin,78729,-97.74077942,30.44429092,Spring,Johnny Foss,Spring,Johnny Foss,0.01025641
+586,Pittsburg,CA,11,16,0,-8.3,Public,,Pittsburg,94565,-121.8814362,38.0194787,,,,,0.029487179
+585,Patterson,CA,5,12,0,-4.4,Public,,Patterson,95363,-121.137606,37.472821,,,,,0.014102564
+587,St. Joseph (Santa Maria),CA,8,14,0,-7.9,Private,Southern,Lakewood,90713,-118.1172096,33.86170852,,,Winter,Jim Armstrong,0.13974359
+588,Hillsboro,OR,12,17,0,-8,Public,5A/4A,Hillsboro,97123,-122.9592727,45.495102,Fall,Cam Clitheroe,Fall,Cam Clitheroe,0.015384615
+589,Ashland,OR,5,5,0,-13.1,Public,5A,Ashland,97520,-122.699347,42.190305,Fall,Natalie Del Carlo,,,0
+590,West Salem (Salem),OR,5,9,0,-5.8,Public,6A,Salem,97304,-123.0842219,44.9591103,Fall,Eric Davenport,Fall,Eric Davenport,0.002564103
+591,Fallbrook,CA,8,16,0,-6.6,Public,San Diego,Fallbrook,92028,-117.241815,33.348525,Fall,Bill Richardson,Winter,Sean Redmond,0.024358974
+592,Army-Navy (Carlsbad),CA,6,4,0,-16.2,Private,San Diego,Carlsbad,92008,-117.3547035,33.163127,Fall,Jim Barton,,,0.025641026
+593,Montebello,CA,9,12,0,-9.4,Public,Southern,Montebello,90640,-118.123038,34.015256,Fall,Luis Flores,Winter,Priscilla Gomez,0.130769231
+594,Monterey,CA,1,11,0,5.8,Public,Central Coast,Monterey,93940,-121.9002622,36.5949815,Fall,Kai Esaki,Fall,CJ D'Arienzo,0.008974359
+595,North Forney (Forney),TX,5,10,0,-5.3,Public,,Forney,75126,-96.4057111,32.7687011,,,,,0.007692308
+596,Tomball Memorial (Tomball),TX,3,15,0,1,Public,,Tomball,77377,-95.6331,30.03442,,,,,0.030769231
+597,Grace Davis (Modesto),CA,12,7,0,-16.4,Public,Sac-Joaquin,Modesto,95350,-121.010233,37.681972,Fall,,Fall,,0.017948718
+598,Rancho Alamitos (Garden Grove),CA,11,12,0,-8.5,Public,Southern,Garden Grove,92841,-117.9866843,33.7982088,Fall,Tori Cree,Winter,Tori Cree,0.121794872
+599,Los Altos (Hacienda Heights),CA,8,19,0,-5.9,Public,Central Coast,Los Altos,94022,-122.109264,37.385071,Fall,Seth Tasman,Fall,Katie Tasman,0.065384615
+600,Mountainside (Beaverton),OR,6,11,0,-9,Public,,Beaverton,97007,-122.8574204,45.4284718,,,,,0.016666667
+601,Chowchilla,CA,4,16,0,-1.8,Public,Central,Chowchilla,93610,-120.2626697,37.11633746,Fall,Brandon Moore,Fall,Ashley Espinola,0.006410256
+602,Ann Sobrato (Morgan Hill),CA,2,6,0,-5.7,Public,Central Coast,Morgan Hill,95037,-121.670414,37.1603043,Fall,Ronni Gautschi,Fall,Scott Jackson,0.028205128
+603,Denton,TX,3,10,0,-1.9,Public,North,Denton,76201,-97.14341,33.22365914,Spring,Stephanie Sullivan,Spring,Stephanie Sullivan,0.007692308
+604,MacArthur (Houston),TX,6,1,0,-24.1,Public,North,Irving,75062,-96.9567695,32.8523634,Spring,Justin Miley,Spring,Justin Miley,0.014102564
+605,El Rancho (Pico Rivera),CA,5,9,0,-8.8,Public,Southern,Pico Rivera,90660,-118.0887782,33.9850021,Fall,Stephen Whittier,Winter,Xenia Castillo,0.138461538
+606,Monache (Porterville),CA,4,20,0,-1.5,Public,Central,Porterville,93257,-119.0498811,36.08174545,Fall,Even Thomas,Fall,Brandon Weaver,0.008974359
+607,Mira Mesa (San Diego),CA,5,18,0,-3.9,Public,San Diego,San Diego,92126,-117.141525,32.910639,Fall,TBA,Winter,Greg Steinbach,0.052564103
+608,Encinal (Alameda),CA,3,21,0,-0.4,Public,,Alameda,94501,-122.2897018,37.7716639,,,,,0.046153846
+609,Sonia M. Sotomayor (San Antonio),TX,0,20,0,4.4,Public,,San Antonio,78254,-98.7505392,29.52677769,,,,,0.021794872
+610,Aragon (San Mateo),CA,0,12,0,3.9,Public,Central Coast,San Mateo,94402,-122.3293152,37.5505013,Fall,Carly Demarchena,Fall,Roxanne Tursi,0.03974359
+611,La Quinta,CA,5,13,0,-6.7,Public,Southern,La Quinta,92253,-116.2813039,33.7145963,Fall,John Vu,Winter,Jason Mills,0.008974359
+612,Lynbrook (San Jose),CA,7,18,0,-6,Public,Central Coast,San Jose,95129,-122.0039741,37.3006125,Fall,Aaron Waldrip,Fall,Sarah Giarritta,0.055128205
+613,Milby (Houston),TX,5,5,0,-12.8,Public,,Houston,77012,-95.2762299,29.7105411,,,,,0.033333333
+614,Channel Islands (Oxnard),CA,3,10,0,-2.3,Public,Southern,Oxnard,93033,-119.1623834,34.1697858,Fall,Kip Atwater,Winter,Kip  Atwater,0.014102564
+615,Branham (San Jose),CA,1,15,0,2.3,Public,,San Jose,95118,-121.8985606,37.25281035,,,,,0.048717949
+616,Notre Dame (Riverside),CA,7,7,0,-11.7,Private,Central Coast,Salinas,93901,-121.6680958,36.6639869,,N/a,Fall,Gary Figueroa,0.01025641
+617,Banning (Wilmington),CA,13,6,0,-21.8,Public,Los Angeles City,Wilmington,90744,-118.2608353,33.7940582,Fall,Jennifer Osorio,Winter,Jennifer Osorio,0.085897436
+618,Moreau Catholic (Hayward),CA,1,10,0,0,Private,,Hayward,94544,-122.0599027,37.6438959,,,,,0.058974359
+619,Mark Keppel (Alhambra),CA,1,8,0,-2,Public,Southern,Alhambra,91801,-118.1130273,34.0708504,Fall,Ameyali Martinez,Winter,Wedny Centeno,0.111538462
+620,Cesar E. Chavez (Houston),TX,5,5,0,-12,Public,,Houston,77017,-95.2564323,29.6879386,,,,,0.033333333
+621,Smithson Valley (Spring Branch),TX,1,8,0,-0.5,Public,,Spring Branch,78070,-98.3573688,29.8005927,,,,,0.007692308
+622,Mission Veterans Memorial (Mission),TX,7,8,1,-12.1,Public,,Mission,78574,-98.3140893,26.2429564,,,,,0.007692308
+623,Hillcrest (Riverside),CA,7,11,0,-10.3,Public,Southern,Riverside,92503,-117.4885643,33.8888446,Fall,Kayla Weller,Winter,Kayla Weller,0.058974359
+624,Sunnyside (Fresno),CA,6,16,0,-7.2,Public,Central,Fresno,93727,-119.7182573,36.7330693,Fall,Jon Troxell,Fall,Maddy Chavez,0.023076923
+625,Saratoga,CA,3,9,0,-6.8,Public,Central Coast,Saratoga,95070,-122.027642,37.267248,Fall,Jacob Young,Fall,Jerome Chung,0.056410256
+626,Paramount,CA,5,15,0,-6.6,Public,Southern,Paramount,90723,-118.1534745,33.9013322,Fall,,Winter,,0.137179487
+627,Pacheco (Los Banos),CA,10,6,0,-18.3,Public,Sac-Joaquin,Los Banos,93635,-120.8158865,37.06522029,Fall,Josh Weinberger,Fall,Jil Brooks,0.001282051
+628,Bear Creek (Stockton),CA,10,19,0,-9.4,Public,Sac-Joaquin,Stockton,95209,-121.3513264,38.05167801,Fall,Tom Downer,Fall,Mike Heberle,0.01025641
+629,Rio Linda,CA,15,13,0,-10.2,Public,Sac-Joaquin,Rio Linda,95673,-121.4384375,38.68209082,Fall,Ruben Mercado,Fall,Larry Bibayoff,0.038461538
+630,Casa Roble (Orangevale),CA,6,9,0,-12.8,Public,Sac-Joaquin,Orangevale,95662,-121.21447,38.70116,Fall,TBA,Fall,TBA,0.029487179
+631,Cypress Park (Cypress),TX,0,17,0,1.6,Public,,Cypress,77433,-95.74212,29.88426,,,,,0.030769231
+632,Sierra Vista (Baldwin Park),CA,11,13,0,-14.3,Public,Southern,Baldwin Park,91706,-117.9792683,34.07494855,Fall,Herman Flores,Winter,Emmanuel Soto,0.121794872
+633,Silver Creek (San Jose),CA,1,6,0,-4.2,Public,Central Coast,San Jose,95121,-121.8056318,37.3043158,Fall,Jerry Bozzo,Fall,Jerry Bozzo,0.044871795
+634,American Canyon,CA,3,12,0,-3.7,Public,Sac-Joaquin,American Canyon,94503,-122.2377796,38.1669192,Fall,Austin Sparks,Fall,Krista Loper,0.021794872
+635,University (Los Angeles),CA,5,7,0,-13,Public,,Los Angeles,90025,-118.460718,34.046041,,,,,0.071794872
+636,Mater Dei Catholic (Chula Vista),CA,4,17,0,-2.4,Private,San Diego,Chula Vista,91913,-116.97619,32.61993,Fall,Robin Bergman,Winter,Jenny Charlesworth,0.033333333
+637,Pioneer Valley (Santa Maria),CA,5,15,0,-5.9,Public,Southern,Santa Maria,93454,-120.4003524,34.95550622,Fall,Ryan Hill,Winter,Ryan Hill,0.006410256
+638,Highlands (San Antonio),TX,6,13,0,-9.8,Public,,San Antonio,78210,-98.44318747,29.38831257,,,,,0.020512821
+639,Jordan (Long Beach),CA,2,13,0,-3.4,Public,Southern,Long Beach,90805,-118.186019,33.87344,Fall,Curt Knowles,Winter,Kelsey Schafer,0.125641026
+640,Cupertino,CA,3,15,0,-5.1,Public,Central Coast,Cupertino,95014,-122.0091144,37.3193238,Fall,Brad Collinwood,Fall,TBA,0.056410256
+641,Almeta Crawford (Rosharon),TX,2,7,0,-3.9,Public,,rosharon ,77583,-95.4636618,29.4753845,,,,,0.033333333
+642,Petaluma,CA,1,10,0,-3,Public,,Petaluma,94952,-122.6470406,38.2272545,,,,,0.015384615
+643,Sachse,TX,8,8,0,-15.5,Public,,Sachse,75048,-96.5852536,32.9612773,,,,,0.014102564
+644,Iowa Colony,TX,0,14,0,1,Public,,Rosharon,77583,-95.416876,29.421427,,,,,0.021794872
+645,West Valley (Hemet),CA,3,6,0,-11.1,Public,Southern,Hemet,92545,-117.0102668,33.7178667,Fall,Rob Avila,Winter,Rob Avila,0.021794872
+646,Monte Vista (Spring Valley),CA,5,12,0,-9.5,Public,,Spring Valley,91977,-116.973713,32.737742,,,,,0.047435897
+647,Pharr-San Juan-Alamo Memorial (Alamo),TX,0,9,0,-0.4,Public,,Alamo,78516,-96.46178062,32.92253485,,,,,0.01025641
+648,Southwest Legacy (Von Ormy),TX,3,14,0,-3.7,Public,,Von Ormy,78073,-98.58805,29.29147,,,,,0.019230769
+649,Golden Valley (Merced),CA,5,16,0,-6.7,Public,Sac-Joaquin,Merced,95341,-120.4485834,37.2879084,Fall,Kevin Rozas,Fall,William Gossett,0.007692308
+650,South Salem (Salem),OR,5,14,0,-6.7,Public,6A,Salem,97302,-123.0379872,44.9223267,Fall,Damien Montague,Fall,Damien Montague,0.002564103
+651,Irvington (Fremont),CA,1,15,0,-0.4,Public,North Coast,Fremont,94538,-121.9929101,37.533513,Fall,Rich Maher,Fall,Juan Angel Madrigal ,0.066666667
+652,Kerman,CA,3,12,0,-6.2,Public,Central,Kerman,93630,-120.0648077,36.73262423,Fall,Joshua Wake,Fall,Mandy Porto,0.015384615
+653,Norte Vista (Riverside),CA,8,11,0,-14.6,Public,Southern,Riverside,92503,-117.4772263,33.9481624,Fall,Mobin Noorzay,Winter,Ash Ballard,0.062820513
+654,Tahquitz (Hemet),CA,3,6,0,-12,Public,Southern,Hemet,92545,-117.01961,33.76845,Fall,Tameem Kurdmisto,Winter,Tameem Kurdmisto,0.025641026
+655,Calaveras (San Andreas),CA,4,7,0,-14.4,Public,Sac-Joaquin,San Andreas,95249,-120.6850191,38.2000846,Fall,Michelle Pogue,Fall,Michelle Pogue,0.002564103
+656,Mission Oak (Tulare),CA,4,21,0,-4.4,Public,Central,Tulare,93274,-119.2989788,36.198598,Fall,Ron Altermatt,Fall,Laurel Dominguez,0.012820513
+657,West (Torrance),CA,5,15,0,-8.3,Public,,Torrance,90503,-118.3667988,33.8472015,,,,,0.064102564
+658,whitney (cerritos),CA,5,8,0,-14.6,Public,,Cerritos,90703,-118.054965,33.862214,,,,,
+659,Nordhoff (Ojai),CA,1,10,0,-3.3,Public,Southern,Ojai,93023,-119.266024,34.442423,Fall,Jermaine Britton,Winter,Jermaine Britton,0.011538462
+660,Shadow Hills (Indio),CA,2,6,0,-10.5,Public,Southern,Indio,92203,-116.2690375,33.765679,Fall,John Garczynski,Winter,TBD,0.008974359
+661,Hueneme (Oxnard),CA,1,9,0,-2.9,Public,Southern,Oxnard,93033,-119.1823263,34.1590966,Fall,Kyle Ripley,Winter,Olivia Hernandez,0.012820513
+662,Loara (Anaheim),CA,4,9,0,-10.9,Public,Southern,Anaheim,92804,-117.9306609,33.81058637,Fall,Pedro Jiron,Winter,Pedro Jiron,0.124358974
+663,North (Torrance),CA,1,9,0,-3.1,Public,,Torrance,90504,-118.3359289,33.8653298,,,,,0.076923077
+664,Ontario,CA,2,8,0,-7.6,Public,,Ontario,91762,-117.6655523,34.0391194,,,,,0.079487179
+665,Benjamin Davis (Houston),TX,6,2,0,-24.1,Public,,houston,77067,-95.4336445,29.9556702,,,,,0.03974359
+666,Del Campo (Fair Oaks),CA,3,9,0,-8,Public,,Fair Oaks,95628,-121.31083,38.65449,,,,,0.034615385
+667,East Union (Manteca),CA,1,10,0,-3,Public,,Manteca,95336,-121.235522,37.819995,,,,,0.020512821
+668,Laguna Creek (Elk Grove),CA,6,14,0,-6.9,Public,Sac-Joaquin,Elk Grove,95758,-121.4272768,38.4284882,Fall,Steven Ramsay,Fall,Rod Hart,0.023076923
+669,Reseda,CA,6,10,0,-10.9,Public,,Reseda,91335,-118.5295201,34.1885493,,,,,0.046153846
+670,Summit (Fontana),CA,3,9,0,-9.6,Public,Southern,Fontana,92336,-117.4653667,34.15047045,Fall,Bruce Tuttle,Winter,Bruce Tuttle,0.053846154
+671,Fort Bend Kempner (Sugar Land),TX,3,9,0,-7.3,Public,,Sugar Land,77498,-95.6452782,29.6417686,,,,,0.037179487
+672,Godinez Fundamental (Santa Ana),CA,2,8,0,-8.9,Public,Southern,Santa Ana,92704,-117.9101725,33.72285635,Fall,Jessica Morris,Winter,Jessica Morris,0.115384615
+673,Santa Fe Christian (Solana Beach),CA,4,11,0,-9.2,Private,San Diego,Solana Beach,92075,-117.258215,32.992111,Fall,Brandon Duck,Winter,Brandon Duck,0.046153846
+674,Pinole Valley (Pinole),CA,7,16,0,-11.8,Public,North Coast,Pinole,94564,-122.286577,37.9914939,Fall,Jim Ulversoy,Fall,TBA,0.044871795
+675,Whittier,CA,3,13,0,-7.1,Public,Southern,Whittier,90601,-118.0440393,33.9792104,Fall,Allen Johnson,Winter,Allen Johnson,0.138461538
+676,Marist (Eugene),OR,3,6,0,-14.1,Private,5A/4A,Eugene,97401,-123.1152535,44.0872111,Fall,Ryan Elliott,,,0.003846154
+677,Valley Center,CA,3,12,0,-7.2,Public,San Diego,Valley Center,92082,-117.024659,33.2803,Fall,Mike Broomell,Winter,Scott Morrison,0.021794872
+678,Lehman (Kyle),TX,0,12,0,1.1,Public,West,Kyle,78640,-97.8492928,29.9955454,Spring,Kaytlyn Lueders,,,0.007692308
+679,Jurupa Valley,CA,2,13,0,-7.6,Public,Southern,Mira Loma,91752,-117.5220143,34.0025686,Fall,,Winter,,0.066666667
+680,Sanger West (Fresno),CA,8,12,0,-14,Public,,Fresno,93727,-119.6797397,36.7118431,,,,,0.021794872
+681,California (Whittier),CA,6,19,0,-8.7,Public,,Whittier,90604,-118.02402,33.94446,,,,,0.141025641
+682,Dinuba,CA,0,12,0,-1.6,Public,Central,Dinuba,93618,-119.3842389,36.5395938,,,,,0.011538462
+683,Sharyland (Mission),TX,4,11,0,-10.6,Public,,Mission,78572,-98.2833123,26.2129756,,,,,0.008974359
+684,San Leandro,CA,0,14,0,-1.4,Public,North Coast,San Leandro,94577,-122.1413455,37.7185851,Fall,Briana Ruiz,Fall,Briana Ruiz,0.061538462
+685,Redmond,OR,1,9,0,-7,Public,5A/4A,Redmond,97756,-121.1918061,44.2743728,Fall,Denise Maich,Fall,Denise Maich,0.005128205
+686,La Quinta (Westminster),PA,1,12,0,-4.9,Private,Eastern,Wyndmoor,19038,-75.18921,40.09489,Fall,Robert Halligan,,,0
+687,Rockwall,TX,0,8,0,-5.2,Public,North,Rockwall,75087,-96.45813786,32.9052037,Spring,Paul Wallace,Spring,Paul Wallace,0.008974359
+688,Lakeside (Lake Elsinore),CA,1,14,0,-6.2,Public,Southern,Lake Elsinore,92530,-117.33428,33.67747,Fall,Jason Kaiser,Winter,Israel Morrow,0.032051282
+689,Bryan,TX,0,8,0,1.1,Public,East,Bryan,77802,-96.3331461,30.65651445,Spring,Travis Kiser,Spring,Travis Kiser,0
+690,Northside (Houston),TX,3,6,0,-12.1,Public,West,Houston,77009,-95.3576253,29.7840935,Spring,Donn Boyd,,,0.034615385
+691,Centennial (Bakersfield),CA,2,23,0,-4.7,Public,,Bakersfield,93312,-119.102007,35.398302,,,,,0.011538462
+692,Kimball (Tracy),CA,2,15,0,-6.3,Public,Sac-Joaquin,Tracy,95377,-121.47373,37.73378,Fall,Doug Fischer,Fall,Tess DeLange,0.012820513
+693,Ridgeview (Redmond),OR,1,9,0,-6.3,Public,5A/4A,Redmond,97756,-121.219151,44.2345288,Fall,Joe Deleone,Fall,Joe Deleone,0.005128205
+694,Willamette (Eugene),OR,2,14,0,-8,Public,6A,Eugene,97402,-123.1663346,44.0819827,Fall,Erin Skoubo,Fall,Jesse Fiorina,0.003846154
+695,Livingston,CA,7,8,0,-20.9,Public,Sac-Joaquin,Livingston,95334,-120.7233786,37.37582433,Fall,William Halpin,Fall,TBA,0.011538462
+696,Johansen (Modesto),CA,7,11,0,-17.5,Public,Sac-Joaquin,Modesto,95357,-120.9171502,37.6470618,Fall,Brent Bohlender,Fall,Brent Bohlender,0.015384615
+697,North Garland (Garland),TX,5,11,0,-13.6,Public,,Garland,75042,-96.657693,32.9307499,,,,,0.015384615
+698,Indian Springs (San Bernardino),CA,4,6,0,-19.1,Public,Southern,San Bernardino,92410,-117.2524783,34.11172996,Fall,Brian Brennan,Winter,Brian Brennan,0.037179487
+699,Chino,CA,1,7,0,-8.9,Public,Southern,Chino,91710,-117.6850351,34.02125667,Fall,Josh Hower,Winter,Sarah Wuertz,0.084615385
+700,Bear River (Grass Valley),CA,2,15,0,-6.8,Public,Sac-Joaquin,Grass Valley,95949,-121.0737,39.0464,Fall,Daryn Glasgow,Fall,Daryn Glasgow,0.005128205
+701,Pioneer (Woodland),CA,3,11,0,-12.3,Public,,Woodland,95776,-121.7404992,38.6598733,,,,,0.012820513
+702,Independence (San Jose),CA,1,9,0,-8,Public,Central Coast,San Jose,95133,-121.8581516,37.3696885,Fall,TBA,Fall,TBA,0.053846154
+703,Moreno Valley,CA,3,10,0,-13.5,Private,North Coast,Hayward,94544,-122.0599027,37.6438959,Fall,Mia Cummings,Fall,Mia Cummings,0.058974359
+704,Savanna (Anaheim),CA,7,11,0,-16.4,Public,Southern,Anaheim,92801,-117.9677801,33.8351348,Fall,Chris Anderson,Winter,Dennis Nelson,0.125641026
+705,Heritage (Menifee),CA,8,11,0,-14.9,Public,,Menifee,92585,-117.1394588,33.69516043,,,,,0.024358974
+706,Independence (Bakersfield),CA,5,16,0,-12.7,Public,,Bakersfield,93311,-119.1099402,35.2826533,,,,,0.011538462
+707,Fort Bend Bush (Richmond),TX,1,8,0,-9.6,Public,,Richmond,77407,-95.6846318,29.7054307,,,,,0.041025641
+708,Escondido,CA,4,17,0,-11.9,Public,San Diego,Escondido,92026,-117.091931,33.1463012,Fall,Jeff Ukrainetz,Winter,John Bryant,0.034615385
+709,Antioch,CA,1,8,0,-10.3,Public,North Coast,Antioch,94509,-121.8157746,38.00515842,Fall,Richard Wheeler,Fall,Richard Wheeler,0.023076923
+710,Roosevelt (Fresno),CA,2,7,0,-13.5,Public,,Fresno,93702,-119.7517232,36.7430591,,,,,0.023076923
+711,Nogales (La Puente),CA,1,9,0,-10.1,Public,Southern,La Puente,91744,-117.8885312,34.01108495,Fall,Marco Garcia Jr.,Winter,Lauren Allinson,0.129487179
+712,Artesia (Lakewood),CA,2,8,0,-14.4,Public,Southern,Lakewood,90715,-118.149431,33.860066,Fall,Arielle Whitcare,,,0.135897436
+713,West (Tracy),CA,0,13,0,-5.6,Public,Sac-Joaquin,Tracy,95376,-121.4484903,37.7493434,Fall,Jacob Lawson,Fall,Pat Windschitl,0.015384615
+714,Saddleback (Santa Ana),CA,3,11,0,-14.7,Public,Southern,Santa Ana,92707,-117.8797224,33.7078833,Fall,TBD,Winter,Samuel Gonzalez,0.105128205
+715,Mt. Pleasant (San Jose),CA,0,8,0,-6.1,Public,Central Coast,San Jose,95127,-121.8059858,37.3474061,Fall,Andy Mckay,Fall,Isaac Saldivar,0.047435897
+716,Santa Maria,CA,0,25,0,-5.7,Public,Southern,Santa Maria,93455,-120.43349,34.94275,Fall,Josh Troeger,Winter,Josh Troeger,0.006410256
+717,Fort Bend Hightower (Missouri City),TX,0,8,0,-7.7,Public,,Missouri City,77459,-95.4970055,29.5323264,,,,,0.037179487
+718,Canyon Hills (San Diego),CA,1,13,0,-9.6,Public,,San Diego,92124,-117.108153,32.825445,,,,,0.056410256
+719,Bolsa Grande (Garden Grove),CA,2,15,0,-10.9,Public,Southern,Garden Grove,92844,-117.9644416,33.7617576,Fall,Albert Vargas,Winter,Steven Howardd,0.119230769
+720,Holmes (San Antonio),TX,0,9,0,-8.6,Public,,San Antonio,78238,-98.6165709,29.4652213,,,,,0.023076923
+721,Aquinas (San Bernardino),CA,4,16,0,-14.4,Private,,San Bernardino,92404,-117.2454376,34.1424664,,,,,0.035897436
+722,Granite Hills (Porterville),CA,0,9,0,-8.3,Public,Central,Porterville,93257,-118.9798342,36.0675947,Fall,Scott Adney,Fall,Rich Lambie,0.005128205
+723,Amador (Sutter Creek),CA,2,19,0,-10.4,Public,Sac-Joaquin,Sutter Creek,95685,-120.8098427,38.3987729,,,,,0.002564103
+724,San Gorgonio (San Bernardino),CA,2,17,0,-11.6,Public,Southern,San Bernardino,92404,-117.23496,34.12856,Fall,Gabriel Huerta,Winter,TBD,0.035897436
+725,Madera South (Madera),CA,0,18,0,-8,Public,Central,Madera,93637,-120.1008088,36.93836181,Fall,Rich Petzinger,Fall,Miranda Perez,0.011538462
+726,Cathedral City,CA,3,12,0,-16.3,Public,Southern,Cathedral City,92234,-116.4531139,33.8015565,Fall,Brian Carver,Winter,Brad Fleener,0.008974359
+727,Woodland,CA,1,12,0,-11.7,Public,,Woodland,95695,-121.786998,38.686541,,,,,0.011538462
+728,Sheldon (Sacramento),CA,1,12,0,-9,Public,,Sacramento,95829,-121.3485283,38.4555972,,,,,0.024358974
+729,Torres (Madera),CA,3,17,0,-10.4,Public,,Madera,93638,-120.0743198,37.01137466,,,,,0.008974359
+730,Mount Miguel (Spring Valley),CA,1,15,0,-12,Public,San Diego,Spring Valley,91977,-117.016919,32.722825,Fall,Kevin Darby,Winter,TBA,0.048717949
+731,Colony (Ontario),CA,1,16,0,-10.9,Public,southern,Ontario,91761,-117.5693133,34.0165422,Fall,Mike Fernandez,Winter,Mike Fernandez,0.073076923
+732,Eisenhower (Houston),TX,3,6,0,-19.7,Public,,Houston,77088,-95.4707608,29.8821206,,,,,0.044871795
+733,Ridgeview (Bakersfield),CA,1,16,0,-10.7,Public,,Bakersfield,93313,-119.056769,35.27946,,,,,0.011538462
+734,Roosevelt (Los Angeles),CA,8,6,0,-26.14,Public,Los Angeles City,Los Angeles,90033,-118.2111712,34.0391475,Fall,Reynaldo Ramirez,Winter,Reynaldo Ramirez,0.121794872
+735,Fairfield,CA,0,8,0,-10.2,Public,Sac-Joaquin,Fairfield,94533,-122.0296223,38.2747322,Fall,Adam Levine,Fall,,0.012820513
+736,Workman (City of Industry),CA,0,7,0,-11.7,Public,Central Coast,Woodside,94062,-122.232852,37.44476,Fall,Bruno Antonio,Fall,Laura Reynolds,0.05
+737,Weslaco,TX,0,11,0,-9.9,Public,,Weslaco,78596,-98.0029473,26.1682812,,,,,0.011538462
+738,Rancho Mirage,CA,0,9,0,-9.9,Public,Southern,Rancho Mirage,92270,-116.434267,33.822445,Fall,Dominic Kirby,Winter,,0.008974359
+739,Santee (Los Angeles),CA,6,12,0,-20.6,Public,Los Angeles City,Los Angeles,90011,-118.1176823,34.00829358,Fall,Lisa Branham,Winter,Lisa Branham,0.132051282
+740,Weslaco East,TX,0,8,0,-11.3,Public,,Weslaco,78596,-97.96922647,26.15249405,,,,,0.008974359
+741,Rosemont (Sacramento),CA,0,11,0,-11.6,Public,,Sacramento,95827,-121.3400448,38.54465352,,,,,0.032051282
+742,Ceres,CA,3,11,0,-19.1,Public,Sac-Joaquin,Ceres,95307,-120.9545967,37.5973934,Fall,Will Campbell,Fall,Stephen Dias,0.016666667
+743,Panorama (Panorama City),CA,0,8,0,-10,Public,Los Angeles City,Panorama City,91402,-118.4486187,34.2166561,Fall,Ricardo Diaz,Winter,Ricardo Diaz,0.05
+744,Southwest SD (San Diego),CA,4,5,0,-18.9,Public,San Diego,San Diego,92154,-117.0831336,32.5677769,Fall,John Carson,Winter,John Carson,0.030769231
+745,Hercules,CA,0,8,0,-10.3,Public,North Coast,Hercules,94547,-122.2554396,38.0003846,,,Fall,Ray Irwin,0.043589744
+746,South Albany (Albany),OR,0,12,0,-12.7,Public,5A/4A,Albany,97321,-123.0764181,44.6070919,Fall,Scott Jackson,Fall,Scott Jackson,0.003846154
+747,Canyon Springs (Moreno Valley),CA,2,7,0,-21.4,Public,Southern,Moreno Valley,92557,-117.2609896,33.9611965,Fall,Shannon Sauls,Winter,Shannon Sauls,0.047435897
+748,Aldine (Houston),TX,2,8,0,-18.1,Public,,Houston,77037,-95.408977,29.9166121,,,,,0.03974359
+749,Marquez (Huntington Park),CA,5,8,0,-25.7,Public,Los Angeles City,Huntington Park,90255,-118.233821,33.981744,Fall,TBA,Winter,Stephanie Castro,0.123076923
+750,Central Valley (Ceres),CA,1,11,0,-17.9,Public,,Ceres,95307,-120.9615298,37.57820075,,,,,0.016666667
+751,Nimitz (Houston),TX,1,6,0,-22.4,Public,,Houston,77073,-95.39421,30.00178,,,,,0.029487179
+752,Garland,TX,0,11,0,-12.4,Public,North,Garland,75040,-96.635557,39.7606036,Spring,Shawn Lewis,,,0
+753,Santa Ana Valley (Santa Ana),CA,0,11,0,-15.8,Public,Southern,Santa Ana,92704,-117.8979861,33.7227306,Fall,,Winter,Peter Sophabmixay,0.112820513
+754,Lathrop,CA,0,13,0,-18.3,Public,North Coast,Walnut Creek,94596,-122.0577342,37.8914095,Fall,Steve Mann,Fall,Ryan Sevilla,0.047435897
+755,Robert F. Kennedy Community (Los Angeles),CA,2,8,0,-23.6,Public,Los Angeles City,Los Angeles,90005,-118.2954394,34.0708867,Fall,Roz Mayfield,Winter,Karen Perez,0.101282051
+756,Maywood Academy (Maywood),CA,0,10,0,-23.9,Public,,Maywood,90270,-118.1896281,33.9829357,,,,,0.134615385
+547,Palm Desert,CA,6,14,0,-1.5,Public,Southern,Palm Desert,92260,-116.35735,33.73332,Fall,Michelle Valovic,Winter,Michelle Valovic,0.008974359
+548,Segerstrom (Santa Ana),CA,8,15,0,-5,Public,Southern,Santa Ana,92704,-117.8965635,33.6998651,Fall,Tim Frederickson,Winter,Tim Frederickson,0.107692308
+549,Harlingen,TX,4,8,0,-1.9,Public,,Harlingen,78550,-97.68574,26.20801215,,,,,0.003846154
+550,Mission,CA,11,9,0,-9.6,Public,,San Fernando,91340,-118.4471752,34.2774162,,,,,0.044871795
