@@ -2,7 +2,7 @@
 
 This repository contains the analysis code used for the manuscript “Geographic Proximity to Strong Competitors and Team Performance in High School Water Polo.”
 
-The study examines whether end-of-season performance among U.S. high school boys’ water polo teams exhibits spatial clustering. Team performance was measured using reversed end-of-season rankings, and spatial autocorrelation was assessed using global and local Moran’s I analyses.
+The study examines whether season-record performance among U.S. high school boys’ water polo teams exhibits spatial clustering. Team performance was measured using reversed end-of-season rankings, and spatial autocorrelation was assessed using global and local Moran’s I analyses.
 
 ## Repository contents
 
